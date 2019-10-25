@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="">
+    <meta name="description" content="MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="twitter:dnt" content="on">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.min.css">
+    {% include favicon.html %}
+</head>
+
+<body>
+    <div class="sticky-footer__off-canvas-wrapper">
+        <div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
+            <ul class="vertical menu" data-drilldown data-parent-link="true">
+                {% assign pages=site.pages | where:"position", "top" | sort:"order" %}
+                {% for item in pages %}
+                <li class="">
+                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
+                    {% if item.children %}
+                    {% assign children=site.pages | where:"parent", item.ref |  sort:"order" %}
+                    <ul class="menu vertical">
+                        {% for child in children %}
+                        <li class="{% if child.ref == page.ref %}active{% endif %}">
+                            <a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+
+        </div>

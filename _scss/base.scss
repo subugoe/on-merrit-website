@@ -1,0 +1,11 @@
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  background: url(../img/bubbles.svg) repeat-x top left;
+  display: flex;
+  flex-direction: column;
+  padding-top: 4rem;
+}

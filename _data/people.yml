@@ -1,0 +1,91 @@
+
+- name: Astrid Orth
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/
+  mail: orth@sub.uni-goettingen.de
+
+- name: Daniel Beucke
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/
+  mail: beucke@sub.uni-goettingen.de
+
+- name: Maxie Gottschling
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
+  mail: gottschling@sub.uni-goettingen.de
+
+- name: Martin Giesler
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/martin-giesler/
+  mail: giesler@sub.uni-goettingen.de
+
+- name: Marni Hanke
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+  mail: hanke@sub.uni-goettingen.de
+
+- name: Moritz Wiemann
+  urls:
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
+  mail: wiemann@sub.uni-goettingen.de
+
+- name: Athanasios Mazarakis
+  urls:
+    en:
+      - http://www.zbw.eu/en/forschung/web-science/athanasios-mazarakis/
+      - http://www.ws.informatik.uni-kiel.de/en/team/dr-athanasios-mazarakis
+  mail: a.mazarakis@zbw.eu
+
+- name: Isabella Peters
+  urls:
+    en:
+      - http://www.zbw.eu/en/research/web-science/isabella-peters/
+  mail: ipe@informatik.uni-kiel.de
+
+- name: Maryam Mehrazar
+  urls:
+    en:
+      - http://www.zbw.eu/en/research/web-science/maryam-mehrazar/
+  mail: m.mehrazar@zbw.eu
+
+- name: Steffen Lemke
+  urls:
+    en:
+      - http://www.zbw.eu/en/research/web-science/steffen-lemke/
+  mail: S.Lemke@zbw.eu
+
+- name: Diana Lindner
+  urls:
+    en:
+      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
+  mail: diana.lindner@gesis.org
+
+- name: Katrin Weller
+  urls:
+    en:
+      - https://www.gesis.org/en/institute/staff/person/katrin.weller
+  mail: Katrin.Weller@gesis.org
+
+- name: Olga Zagovora
+  urls:
+    en:
+      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org
+  mail: olga.zagovora@gesis.org
+
+- name: Andreas Krausz
+  urls:
+    en:
+      - http://www.gbv.de/?set_language=en
+  mail: Andreas.Krausz@gbv.de
+
+- name: Julius Stropel
+  urls:
+    en:
+      - http://www.gbv.de/?set_language=en
+  mail: julius.stropel@gbv.de

@@ -1,0 +1,60 @@
+.mainmenu__wrap {
+  border-bottom: 5px solid $metrics-purple;
+
+  @include breakpoint(small only) {
+    display: none;
+  }
+}
+
+.mainmenu {
+  @extend .margin-top-2;
+}
+
+.mainmenu__mainlist {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.mainmenu__item-title__wrap {
+  white-space: nowrap;
+  text-align: center;
+}
+
+.mainmenu__mainlist__item:hover {
+  border-bottom: 5px solid $metrics-blue;
+  margin-bottom: -5px;
+}
+
+.mainmenu__mainlist__item--active {
+  border-bottom: 5px solid $metrics-blue;
+  margin-bottom: -5px;
+}
+
+.mainmenu__item-symbol__wrap {
+  @include breakpoint(medium only) {
+    display: block;
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+
+  @include breakpoint (large) {
+    margin-right: 0.5rem;
+  }
+}
+
+.mainmenu__item-symbol {
+  width: 25px;
+}
+
+nav {
+  a {
+    color: #000;
+  }
+}
+
+.menu .active a {
+  background-color: #fff;
+  color: #000;
+}

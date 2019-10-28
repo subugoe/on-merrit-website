@@ -1,0 +1,46 @@
+{
+  "name": "on-merrit",
+  "version": "0.0.1",
+  "description": "Lorem ipsum dolor sit amut.",
+  "contributors": [
+    "Nils Windisch"
+  ],
+  "homepage": "https://on-merrit.eu",
+  "author": "Nils Windisch <windisch@sub.uni-goettingen.de>",
+  "devDependencies": {
+    "autoprefixer": "^9.6.5",
+    "concurrently": "^3.5.1",
+    "cssnano": "^4.0.1",
+    "foundation-sites": "^6.4",
+    "live-server": "^1.2",
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.17.5",
+    "ntl": "^3.0.0",
+    "postcss": "^6.0.22",
+    "postcss-cli": "^5",
+    "pretty-exceptions": "^1.4.0",
+    "stylelint": "^9.2.1",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^0.8.1"
+  },
+  "scripts": {
+    "sass": "node-sass --output-style compressed --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
+    "prefix": "postcss --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.css | postcss --use cssnano > $(PWD)/css/style.min.css",
+    "sass_build": "node-sass --output-style compressed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
+    "sass_raw": "node-sass --output-style expanded --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
+    "prefix_raw": "postcss --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.min.css",
+    "prefix_build": "postcss --no-map --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.css | postcss --no-map --use cssnano > $(PWD)/css/style.min.css",
+    "watch:css": "nodemon -e scss -x \"npm run build:css\"",
+    "build:css": "npm run sass && npm run prefix",
+    "watch:jekyll": "bundle exec jekyll b -w",
+    "build:jekyll": "bundle exec jekyll b --config _local.yml",
+    "jekyll_build": "bundle exec jekyll b",
+    "serve": "live-server on-merrit-website --watch=$(PWD)/on-merrit-website --port=8010 --no-browser",
+    "run:css": "nodemon -e scss -x \"npm run build:css && npm run build:jekyll\"",
+    "run:jekyll": "nodemon -e md,html,markdown,js,svg --delay 2 --ignore on-merrit-website -x \"npm run build:jekyll\"",
+    "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"SERVE,SASS,JEKYLL\" \"npm run serve\" \"npm run run:css\" \"npm run run:jekyll\"",
+    "go": "npm run dev > npm.log",
+    "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
+    "cleanup": "trash on-merrit-website"
+  }
+}

@@ -1,0 +1,22 @@
+<div class="mainmenu__wrap margin-bottom-2">
+    <nav class="mainmenu grid-x grid-container cell">
+        <ul class="mainmenu__mainlist dropdown menu" data-dropdown-menu>
+            {% assign pages=site.pages | where:"position", "top" | sort:"order" %}
+            {% for item in pages %}
+            <li class="mainmenu__mainlist__item {% if item.ref == page.ref or item.ref == page.parent %}mainmenu__mainlist__item--active{% endif %}">
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="mainmenu__item-symbol__wrap" aria-hidden="true"><img src="{{ site.baseurl }}/img/icons/{{ item.symbol }}.svg" class="mainmenu__item-symbol" aria-hidden="true"></span><span class="mainmenu__item-title__wrap">{{ item.title }}</span></a>
+                {% if item.children %}
+                {% assign children=site.pages | where:"parent", item.ref | sort:"order" %}
+                <ul class="menu vertical">
+                    {% for child in children %}
+                    <li class="{% if child.ref == page.ref %}active{% endif %}">
+                        <a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</div>

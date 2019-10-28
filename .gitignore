@@ -1,0 +1,8 @@
+node_modules
+style.css
+.jekyll-metadata
+on-merrit-website
+npm.log
+*.sketch
+npm-debug.log
+sassdoc

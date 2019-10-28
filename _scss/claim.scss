@@ -1,0 +1,18 @@
+.claim {
+  font-weight: 500;
+  font-size: 1.33rem;
+  line-height: 1.33;
+
+  @extend .margin-top-4;
+
+  @include breakpoint(medium only) {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  @include breakpoint(small only) {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 0;
+  }
+}

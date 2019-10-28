@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1318" height="260" viewBox="0 0 1318 260">
+  <g fill="none" fill-rule="evenodd" transform="translate(-8 -79)">
+    <g fill="#0886C9" font-family="Helvetica" font-size="310">
+      <text>
+        <tspan x="0" y="301.25">on</tspan>
+      </text>
+      <text>
+        <tspan x="541.74" y="301.57">merrit</tspan>
+      </text>
+    </g>
+    <g fill-rule="nonzero" transform="translate(366 125)">
+      <rect width="45.7" height="45.7" x="83.583" y="83.91" fill="#F6A01A" transform="rotate(-45 106.433 106.76)"/>
+      <rect width="45.7" height="45.7" x="46.56" y="120.935" fill="#07A03D" transform="rotate(-45 69.41 143.785)"/>
+      <rect width="45.7" height="45.7" x="9.513" y="157.97" fill="#25A8AC" transform="rotate(-45 32.363 180.82)"/>
+      <rect width="45.7" height="45.7" x="46.548" y="46.863" fill="#07A03D" transform="rotate(-45 69.398 69.713)"/>
+      <rect width="45.7" height="45.7" x="9.512" y="9.83" fill="#25A8AC" transform="rotate(-45 32.362 32.68)"/>
+      <rect width="45.7" height="45.7" x="9.518" y="83.905" fill="#25A8AC" transform="rotate(-45 32.368 106.755)"/>
+    </g>
+  </g>
+</svg>

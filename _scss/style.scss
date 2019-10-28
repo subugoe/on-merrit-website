@@ -150,3 +150,12 @@ table.small-stack {
     border-bottom: 5px solid $metrics-grey;
   }
 }
+
+.logo-block {
+  display: flex;
+  align-items: center;
+
+  img {
+    max-width: 100%;
+  }
+}

@@ -2,7 +2,7 @@
 
 /// Sticky Footer
 .sticky-footer {
-  background: url(../img/bubbles_bottom.svg) repeat-x bottom left;
+  background: url(../img/squares_bottom.svg) repeat-x bottom left;
   height: $sticky-footer-height;
 
   @include breakpoint(medium only) {

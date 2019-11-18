@@ -6,7 +6,7 @@ ref: results
 position: top
 order: 30
 alt: "Download of project-related materials."
-symbol: "results"
+symbol: "download"
 ---
 <!-- Start editing content here -->
 <br/>

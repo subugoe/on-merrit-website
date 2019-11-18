@@ -8,12 +8,11 @@ position: bottom
 alt: "Contact the project coordinator"
 ---
 <!-- Start editing content here -->
-Tony Ross-Hellauer (project coordinator)
-
+Tony Ross-Hellauer (project coordinator)<br> 
 Hannah Metzler (project manager)
 
 Know-Center GmbH  <br>
-Research Center for Data-Driven Business & Big Data Analytics<br> 
+Research Center for Data-Driven Business & Big Data Analytics <br> 
 Brockmanngasse 84 <br>
 8010 Graz <br>
 Austria<br>

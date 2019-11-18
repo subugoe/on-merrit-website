@@ -30,12 +30,12 @@ University of Göttingen Foundation under Public Law, University Foundation Comm
 ## Editorial responsibility  
 
 The person responsible for the content of this website in accordance with Section 55 (2) of the State Broadcasting Treaty (RStV) is:  
-Margo Bargheer  
+Helene Brinken 
 Göttingen State and University Library  
 Platz der Göttinger Sieben 1  
 37073 Göttingen  
 Germany  
-E-mail: bargheer(at)sub.uni-goettingen.de  
+E-mail: brinken(at)sub.uni-goettingen.de  
 
 ## VAT identification number  
 
@@ -61,19 +61,15 @@ Themify Icons - <https://themify.me/themify-icons>
 
 The avatar for missing pictures of team members is from: <https://pixabay.com/de/profil-mann-benutzer-home-42914/>  
 
-## English translation  
-
-Miriam Geoghegan M.A.  
 
 ## Internet addresses
 
-<http://metrics_project.net, http://metrics-project.de>
+<http://on-merrit.eu, http://on-merrit.eu>
 
 ## Social Media
 
 This imprint also applies to the following social media accounts:
-<https://twitter.com/metrics_project/>
-<https://www.facebook.com/metricsproject/>
+<https://twitter.com/onmerrit/>
 
 <!-- Stop editing content here -->
 <!-- Start editing content here -->

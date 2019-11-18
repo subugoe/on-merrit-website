@@ -12,12 +12,11 @@ Tony Ross-Hellauer (project coordinator)
 
 Hannah Metzler (project manager)
 
-Know-Center GmbH  
-Research Center for Data-Driven Business & Big Data Analytics 
-Brockmanngasse 84 
-8010 Graz 
-Austria
-
+Know-Center GmbH  <br>
+Research Center for Data-Driven Business & Big Data Analytics<br> 
+Brockmanngasse 84 <br>
+8010 Graz <br>
+Austria<br>
 
 Email: <info@on-merrit.eu>
 

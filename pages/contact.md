@@ -8,14 +8,16 @@ position: bottom
 alt: "Contact the project coordinator"
 ---
 <!-- Start editing content here -->
-Astrid Orth (project coordinator)
+Tony Ross-Hellauer (project coordinator)
+Hannah Metzler (project manager)
 
-Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen)  
-Platz der Göttinger Sieben 1  
-37073 Göttingen  
-Germany
+Know-Center GmbH
+Research Center for Data-Driven Business & Big Data Analytics
+Brockmanngasse 84
+8010 Graz
+Austria
 
-Email: <metrics-project@sub.uni-goettingen.de>
 
-Facebook: [https://www.facebook.com/metricsproject/](https://www.facebook.com/metricsproject/)  
-Twitter: [https://twitter.com/metrics_project](https://twitter.com/metrics_project)
+Email: <info@on-merrit.eu>
+
+Twitter: [https://twitter.com/onmerrit](https://twitter.com/onmerrit)

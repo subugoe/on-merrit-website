@@ -17,6 +17,21 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div id="masonry" class="cell grid-x small-collapse medium-collapse">
 <!-- <div class="cell grid-x grid-container small-collapse medium-collapse"> -->
 
+<!-- The project -->
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ site.baseurl }}/img/icons/calendar.svg" aria-hidden="true">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/events/">{{ site.data.lang.events }}</a></h2>
+<div class="featurebox__content" markdown="1">
+<!-- Start editing content here -->
+  ON-MERRIT is about...
+  
+  </div>
+  </div>
+</div>
+
 <!-- News -->
 <div class="featurebox cell grid-x grid-container medium-6">
   <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">

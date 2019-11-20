@@ -33,6 +33,7 @@ alt: "introduction of the project team"
           <span class="show-for-sr">Open hompage of {{ item.name }}</span>
         </a>
         {% endfor %}
+        <p>{{ item.text }}</p>
       </div>
     </div>
     {% endfor %}

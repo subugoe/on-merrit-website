@@ -1,4 +1,3 @@
-
 - name: Tony Ross-Hellauer
   urls:
     en:
@@ -52,8 +51,8 @@
     en:
       - https://twitter.com/nancypontika
   mail: Nancy.Pontika@open.ac.uk
-  
-  - name: Eloy Rodrigues
+
+- name: Eloy Rodrigues
   urls:
     en:
       - https://twitter.com/cibertecario02
@@ -88,9 +87,3 @@
     en:
       - https://twitter.com/helenebrinken
   mail: brinken@sub.uni.goettingen.de
-
-- name: XYZ
-  urls:
-    en:
-      - 
-  mail: 

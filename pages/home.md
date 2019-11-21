@@ -5,10 +5,10 @@ permalink: /index.html
 ref: index
 position:
 order:
-alt: "Website of the *metrics project"
+alt: "Website of the on-merrit project"
 ---
 <div class="columns margin-top-4 margin-bottom-4" markdown="1">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ON-MERRIT is a 30 month H2020 project to  investigate how open science could worsen existing inequalities and propose ways to make sure that does not happen.
 </div>
 <!-- <div class="columns collapse mansonry__wrap"> -->
 <!-- <div class="cell collapse"> -->

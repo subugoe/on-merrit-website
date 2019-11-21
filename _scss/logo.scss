@@ -1,56 +1,56 @@
 /// Logo
-.logo {
-  fill: #9a9b9b;
+// .logo {
+//   fill: #9a9b9b;
 
-  @include breakpoint(small only) {
-    margin-bottom: 1rem;
-  }
-}
+//   @include breakpoint(small only) {
+//     margin-bottom: 1rem;
+//   }
+// }
 
-.logo:hover {
-  fill: #3d315e;
-}
+// .logo:hover {
+//   fill: #3d315e;
+// }
 
-.logo_know-center {
-  width: 125px;
+// .logo_know-center {
+//   width: 125px;
 
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
+//   @include breakpoint(small only) {
+//     width: 75%;
+//   }
+// }
 
-.logo_tu-graz {
-  width: 125px;
+// .logo_tu-graz {
+//   width: 125px;
 
-  @include breakpoint(small only) {
-    width: 40%;
-  }
-}
+//   @include breakpoint(small only) {
+//     width: 40%;
+//   }
+// }
 
-.logo_uminho {
-  width: 160px;
+// .logo_uminho {
+//   width: 160px;
 
-  @include breakpoint(medium only) {
-    margin-top: 2rem;
-  }
+//   @include breakpoint(medium only) {
+//     margin-top: 2rem;
+//   }
 
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
+//   @include breakpoint(small only) {
+//     width: 75%;
+//   }
+// }
 
-.logo_sub {
-  width: 135px;
+// .logo_sub {
+//   width: 135px;
 
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
+//   @include breakpoint(small only) {
+//     width: 75%;
+//   }
+// }
 
-.logo_open-university {
-  width: 100px;
+// .logo_open-university {
+//   width: 100px;
 
-  @include breakpoint(small only) {
-    width: 40%;
-  }
-}
+//   @include breakpoint(small only) {
+//     width: 40%;
+//   }
+// }

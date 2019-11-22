@@ -22,7 +22,9 @@ ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Inno
     <img src="{{ site.baseurl }}/img/icons/pulse.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/pulse.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/news/">{{ site.data.lang.news}}</a></h2>
+    <h2 class="featurebox__header">
+      <img src="{{ site.baseurl }}/img/icons/pulse.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/news/">{{ site.data.lang.news}}</a>
+    </h2>
     <div class="featurebox__content">
       {% include latest_news_index.html %}
     </div>
@@ -35,12 +37,14 @@ ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Inno
     <img src="{{ site.baseurl }}/img/icons/download.svg">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/info-alt.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/about/">About</a></h2>
+    <h2 class="featurebox__header">
+      <img src="{{ site.baseurl }}/img/icons/info-alt.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/about/">About</a>
+    </h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 In this area you can find presentations, reports and dissemination material from the project.
-<!-- Stop editing content here -->
-    </div>
+<!-- Stop editing here -->
+</div>
   </div>
 </div>
 
@@ -50,7 +54,10 @@ In this area you can find presentations, reports and dissemination material from
     <img src="{{ site.baseurl }}/img/icons/calendar.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/events/">{{ site.data.lang.events }}</a></h2>
+    <h2 class="featurebox__header">
+      <img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true">
+      <a href="{{ site.baseurl }}/events/">{{ site.data.lang.events }}</a>
+    </h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 * 2019-11-22 \| [Lorem ipsum dolor sit amut]({{site.url}}/events/upcoming/)
@@ -83,7 +90,7 @@ In this area you can find presentations, reports and dissemination material from
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/email.svg" class="show-for-small-only" aria-hidden="true">{{ site.data.lang.findus }}</h2>
     <div class="featurebox__content">
       <img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" class="twitter-icon" aria-hidden="true"> <a href="https://twitter.com/OnMerrit">ON-MERRIT on Twitter</a> <br>
-      <img src="{{ site.baseurl }}/img/icons/facebook-alt.svg" aria-hidden="true"> 
+      <!--<img src="{{ site.baseurl }}/img/icons/facebook-alt.svg" aria-hidden="true">-->
     </div>
   </div>
 </div>

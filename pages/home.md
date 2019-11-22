@@ -50,12 +50,7 @@ ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Inno
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/events/">{{ site.data.lang.events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-  
-* 2019-06- 10-13 \| [Open Repositories]({{site.url}}/events/upcoming/#ORep)  
-* 2019-06- 19-21 \| [OAI11 - CERN-UNIGE Workshop on Innovations in Scholarly Communication]({{site.url}}/events/upcoming/#OAI11)  
-* 2019-09- 02-05 \| [17th International Conference on Scientometrics and Infometrics]({{site.url}}/events/upcoming/#ISSI19)  
-* 2019-09- 30-10- 02 \| [Open Access Days 2019]({{site.url}}/events/upcoming/#OAT19)  
-  
+* 2019-11-22 \| [Lorem ipsum dolor sit amut]({{site.url}}/events/upcoming/)
 <!-- Stop editing here -->
 </div>
   </div>

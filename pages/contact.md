@@ -8,14 +8,14 @@ position: bottom
 alt: "Contact the project coordinator"
 ---
 <!-- Start editing content here -->
-Tony Ross-Hellauer (project coordinator)<br> 
+Tony Ross-Hellauer (project coordinator)  
 Hannah Metzler (project manager)
 
-Know-Center GmbH  <br>
-Research Center for Data-Driven Business & Big Data Analytics <br> 
-Brockmanngasse 84 <br>
-8010 Graz <br>
-Austria<br>
+Know-Center GmbH  
+Research Center for Data-Driven Business & Big Data Analytics  
+Brockmanngasse 84  
+8010 Graz  
+Austria
 
 Email: <info@on-merrit.eu>
 

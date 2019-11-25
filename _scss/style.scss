@@ -104,14 +104,6 @@ table.small-stack {
   @extend .margin-left-2;
 }
 
-.mansonry__wrap {
-  @extend .margin-top-3;
-
-  @include breakpoint(small only) {
-    padding: 0;
-  }
-}
-
 .menu--small {
   display: flex;
   flex-flow: row wrap;
@@ -158,4 +150,9 @@ table.small-stack {
   img {
     max-width: 100%;
   }
+}
+
+
+.home-last-block {
+  margin: 0 !important;
 }

@@ -9,4 +9,19 @@ order: 1
 alt: "About the project"
 ---
 <!-- Start editing content here -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The project
+Open Science for the few is just the extension of privilege. Equity is a key aim of open science, but could Open Science policies actually worsen existing inequalities? Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect?
+The project ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Innovation Transformation) aims at contributing to an equitable scientific system that rewards researchers based on merit. For this purpose, it investigates the impact of open science practices in academia, industry, and policy.  It will particularly focus on institutions and individuals working in the areas of agriculture, climate and health (key pillars of the UN Sustainable Development Goals). In addition, it will highlight the role of gender across all investigated questions. A multidisciplinary team of sociologists, computer scientists, information scientists, cognitive scientists, etc. uses a combination of qualitative and computational methods, complemented by stakeholder engagement and co-creation in order to examine the advantages and disadvantages in responsible and open research practices. ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate Matthew effects.
+
+## Partners 
+- [Know-Center Gmbh](https://www.know-center.tugraz.at/) - Research Center For Data-driven Business & Big Data Analytics, Austria
+  - [Open and Reproducible Research Group](https://www.tugraz.at/institute/isds/research/groups/orrg/)
+  - [Data-Driven Business Group](https://www.know-center.tugraz.at/en/research/areas/data-driven-business/) 
+- The Open University, United Kingdom
+  - [Knowledge Media Institute](http://kmi.open.ac.uk/)
+- Technische Universitaet Graz, Austria
+  - [Science, Technology, Society Unit](https://www.tugraz.at/arbeitsgruppen/sts/home/)
+- Universidade Do Minho, Portugal
+  - [Documentation Services](http://www.sdum.uminho.pt/)
+- Georg-August Universität Göttingen, Germany
+  - ]()Göttingen State and University Library](https://www.sub.uni-goettingen.de) 

@@ -7,8 +7,13 @@ position:
 order:
 alt: "Website of the on-merrit project"
 ---
-<div class="columns margin-top-4 margin-bottom-4" markdown="1">
+<div class="columns margin-top-4 grid-container margin-bottom-4">
+<div markdown="1">
 ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Innovation Transformation) is a 30 month H2020 project to  investigate how open science could worsen existing inequalities and propose ways to make sure that does not happen.
+</div>
+<div>
+<img src="/img/bilder_team/gruppenfoto.jpeg">
+</div>
 </div>
 <!-- <div class="columns collapse"> -->
 <!-- <div class="cell collapse"> -->

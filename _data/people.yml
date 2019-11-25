@@ -3,27 +3,34 @@
     en:
       - https://twitter.com/tonyR_H
   mail: tross@know-center.at
-  text: Know Center \br  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-
+  text: Tony is an information scientist with a background in philosophy. He is project coordinator (PI) and will contribute across the whole project.
+  
 - name: Hannah Metzler
   urls:
     en:
       - https://twitter.com/hannahmetzler1
   mail: hmetzler@know-center.at
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: Hannah is a cognitive scientist. She is the project manager, and contributes to the investigation of Matthew effects in academia and industry.
 
 - name: Angela Fessl
   urls:
     en:
       - https://twitter.com/afessl
   mail: afessl@know-center.at
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: has a background in computer science. As work package and task leader in the project  she will investigate the uptake of open data and science in industry. 
 
 - name: Ilire Hasani-Mavriqi
   urls:
     en:
       - https://twitter.com/ilireh
   mail: ilire.hasani-mavriqi@tugraz.at
+  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+
+- name: Viktoria Pammer-Schindler 
+  urls:
+    en:
+      - https://twitter.com/ViktoriaPammer
+  mail: 
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
 - name: Bernhard Wieser
@@ -38,7 +45,7 @@
     en:
       - https://twitter.com/StefanReichman5
   mail: stefan.reichmann@tugraz.at
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: Stefan is a sociologist. In ON-MERRIT, he contributes to investigating the impact Open Science has on the uptake of research by policy-makers.
 
 - name: Petr Knoth
   urls:
@@ -59,15 +66,14 @@
     en:
       - https://twitter.com/nancypontika
   mail: Nancy.Pontika@open.ac.uk
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: Nancy has a background in scholarly communications with an expertise in Open Access. She will be working mainly at WP3 and WP6, Task 6.1. 
 
 - name: Eloy Rodrigues
   urls:
     en:
       - https://twitter.com/cibertecario02
   mail: eloy@sdum.uminho.pt
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-
+  text: Eloy is library director. In ON-MERRIT he will be mostly involved on the tasks related with policy-making and policy recommendations. 
 - name: Pedro Príncipe
   urls:
     en:
@@ -75,18 +81,11 @@
   mail: pedroprincipe@sdum.uminho.pt
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
-- name: Antonia Correia
+- name: Antónia Maria Correia
   urls:
     en:
       - https://twitter.com/antoniamcorreia
   mail: antoniacorreia@sdum.uminho.pt
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-
-- name: Najko Jahn
-  urls:
-    en:
-      - https://twitter.com/najkoja
-  mail: najko.jahn@sub.uni-goettingen.de
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
 - name: Birgit Schmidt
@@ -94,11 +93,19 @@
     en:
       - https://twitter.com/bschmid1
   mail: bschmidt@sub.uni-goettingen.de
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: Birgit leads the Knowledge Commons unit where she coordinators several Open Science projects. In ON-MERRIT she is responsible for managing the community activities.
+
+- name: Najko Jahn
+  urls:
+    en:
+      - https://twitter.com/najkoja
+  mail: najko.jahn@sub.uni-goettingen.de
+  text: Najko is data analyst and Deputy Head of the Knowledge Commons unit. In ON-MERRIT he investigate Open Science practices in patent literature.
+
 
 - name: Helene Brinken
   urls:
     en:
       - https://twitter.com/helenebrinken
   mail: brinken@sub.uni.goettingen.de
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+  text: With a background in information science, Helene leads the communication activities and contributes to data collection for policy and training analysis.

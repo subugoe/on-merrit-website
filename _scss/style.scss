@@ -156,3 +156,31 @@ table.small-stack {
 .home-last-block {
   margin: 0 !important;
 }
+
+.home-happy-talk {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  align-content: space-between;
+
+  div:first-of-type {
+    padding-right: 1em;
+    width: 50%;
+  }
+  div:last-of-type {
+    padding-left: 1em;
+    width: 50%;
+  }
+
+  @media (max-width: 768px) {
+    flex-flow: column;
+    div:first-of-type {
+      padding-right: 0;
+      width: 100%;
+    }
+    div:last-of-type {
+      padding-left: 0;
+      width: 100%;
+    }
+  }
+}

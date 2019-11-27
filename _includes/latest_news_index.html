@@ -1,4 +1,4 @@
-{% assign posts=site.posts | where:"lang", page.lang %}
+{% assign posts=site.posts %}
 <ul>
 {% for post in posts limit:10 %}
     <li>

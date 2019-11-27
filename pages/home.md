@@ -9,7 +9,9 @@ alt: "Website of the on-merrit project"
 ---
 <div class="columns margin-top-4 grid-container margin-bottom-4 home-happy-talk">
 <div markdown="1">
-ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Innovation Transformation) is a 30 month H2020 project to  investigate how open science could worsen existing inequalities and propose ways to make sure that does not happen.
+ON-MERRIT is a 30 month project funded by the European Commission to investigate how open science and RRI could worsen existing inequalities. A multidisciplinary team uses qualitative and computational methods, complemented by stakeholder engagement and co-creation, in order to examine advantages and disadvantages in responsible and open research practices.
+ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate cumulative (dis)advantages, so called Matthew effects.
+The project acronym stand for <b>O</b>bserving and <b>N</b>egating <b>M</b>atthew <b>E</b>ffects in <b>R</b>esponsible <b>R</b>esearch & <b>I</b>nnovation <b>T</b>ransformation.
 </div>
 <div>
   <img src="/img/bilder_team/gruppenfoto.jpeg">

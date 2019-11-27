@@ -10,8 +10,8 @@ alt: "Website of the on-merrit project"
 <div class="columns margin-top-4 grid-container margin-bottom-4 home-happy-talk">
 <div markdown="1">
 <b>ON-MERRIT</b> is a 30 month project funded by the European Commission to investigate how and if open and responsible research practices could worsen existing inequalities. <br />
-A multidisciplinary team uses qualitative and computational methods, complemented by stakeholder engagement and co-creation, in order to examine advantages and disadvantages in <b>Open Science</b>  and <b>Responsible Research & Innovation (RRI)</b> .
-ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate <b>cumulative (dis)advantages</b>, so called <b>Matthew effects</b>.<br />
+A multidisciplinary team uses qualitative and computational methods, in order to examine advantages and disadvantages in <b>Open Science</b>  and <b>Responsible Research & Innovation (RRI)</b> .
+ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate cumulative (dis)advantages, so called <b>Matthew effects</b>.<br />
 The project acronym stand for <b>O</b>bserving and <b>N</b>egating <b>M</b>atthew <b>E</b>ffects in <b>R</b>esponsible <b>R</b>esearch & <b>I</b>nnovation <b>T</b>ransformation.
 </div>
 <div>

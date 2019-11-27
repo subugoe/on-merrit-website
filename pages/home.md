@@ -68,7 +68,7 @@ In this area you can find more information about the project activities and the 
     </h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-* 2019-11-22 \| [Lorem ipsum dolor sit amut]({{site.url}}/events/upcoming/)
+All project events will be announced in this area.
 <!-- Stop editing here -->
 </div>
   </div>

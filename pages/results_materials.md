@@ -17,7 +17,7 @@ You can find all our publications also on [Zenodo](https://zenodo.org/communitie
 ## Conferences and workshops
 
 ## Logo in different formats
-![Logo]({{ site.url }}/img/logos/on-merrit_logo.jpg "ON-MERRIT logo"){: style="min-width: 100%" }
+![Logo]({{ site.url }}/img/logos/on-merrit_logo.jpg "ON-MERRIT logo"){: style="min-width: 50%" }
 
 * [Logo (JPG)]({{ sitebase.url }}/downloads/on-merrit_logo.jpg)  
 * [Logo (PNG)]({{ sitebase.url }}/downloads/on-merrit_logo.png)  

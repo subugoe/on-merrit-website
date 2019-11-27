@@ -50,7 +50,7 @@ The project acronym stand for <b>O</b>bserving and <b>N</b>egating <b>M</b>atthe
     </h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-In this area you can find presentations, reports and dissemination material from the project.
+In this area you can find more information about the project activities and the team.
 <!-- Stop editing here -->
 </div>
   </div>

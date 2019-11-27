@@ -9,8 +9,10 @@ alt: "Download of project-related materials."
 symbol: "download"
 ---
 <!-- Start editing content here -->
+## Zenodo community
+You can find our results and materials in our [Zenodo community](https://zenodo.org/communities/onmerrit/).
+
 ## Logo
 ![Logo]({{ site.url }}/img/logos/on-merrit_logo.jpg "ON-MERRIT logo"){: style="min-width: 100%" }
 
-## Zenodo community
-[ON-MERRIT on zenodo](https://zenodo.org/communities/onmerrit/)
+

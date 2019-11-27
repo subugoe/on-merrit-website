@@ -38,5 +38,4 @@ alt: "introduction of the project team"
     </div>
     {% endfor %}
   </div>
-  {% include more_pages.html %}
 </main>

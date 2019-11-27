@@ -17,7 +17,7 @@ The use of this website is generally possible without providing personal data. R
 
 ### Name and contact details of the person responsible
 
-Prof. Dr. Ulrike Beisiegel  
+Dr. Valérie Schüller    
 Wilhelmsplatz 1  
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
@@ -37,7 +37,7 @@ datenschutz@uni-goettingen.de
 
 ## Purposes and legal bases of the processing
 
-Insofar as we obtain the consent of the data subject for the processing of personal data, Art. 6 para. 1 lit. a EU General Data Protection Regulation (GDPR) serves as the legal basis. In the processing of personal data required for the fulfilment of a contract to which the data subject is a party, Art. 6 para. 1 lit. b GDPR serves as the legal basis. This also applies to processing operations that are necessary to carry out pre-contractual measures. Insofar as the processing of personal data is required to fulfil a legal obligation to which our company is subject, Art. 6 para. 1 lit. c GDPR serves as the legal basis. In the event that the vital interests of the data subject or another natural person require the processing of personal data, Article 6(1)(d) GDPR serves as the legal basis. Your data is collected on the basis of Art. 6 Para. 1 lit. d GDPR in order to process your request and at the same time to enable us to perform our tasks which are in the public interest. If processing is necessary to safeguard a legitimate interest of our institution or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh the first-mentioned interest, Art. 6 para. 1 letter f GDPR serves as the legal basis for processing. This is always the case when you contact us via the e-mail address provided. In the event of contact by e-mail, this also constitutes the necessary legitimate interest in the processing of the data.
+Insofar as we obtain the consent of the data subject for the processing of personal data, Art. 6 para. 1 lit. a EU General Data Protection Regulation (GDPR) serves as the legal basis. In the processing of personal data required for the fulfilment of a contract to which the data subject is a party, Art. 6 para. 1 lit. b GDPR serves as the legal basis. This also applies to processing operations that are necessary to carry out pre-contractual measures. Insofar as the processing of personal data is required to fulfil a legal obligation to which our company is subject, Art. 6 para. 1 lit. c GDPR serves as the legal basis. In the event that the vital interests of the data subject or another natural person require the processing of personal data, Article 6(1)(d) GDPR serves as the legal basis. Your data is collected on the basis of Art. 6 Para. 1 lit. e GDPR in order to process your request and at the same time to enable us to perform our tasks which are in the public interest. If processing is necessary to safeguard a legitimate interest of our institution or a third party and if the interests, fundamental rights and freedoms of the data subject do not outweigh the first-mentioned interest, Art. 6 para. 1 letter f GDPR serves as the legal basis for processing. This is always the case when you contact us via the e-mail address provided. In the event of contact by e-mail, this also constitutes the necessary legitimate interest in the processing of the data.
 
 ## Recipient of personal data
 

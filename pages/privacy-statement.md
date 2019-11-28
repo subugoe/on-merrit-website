@@ -79,5 +79,7 @@ This website uses the open source software Matomo for the statistical evaluation
 
 By using this website, you consent to the processing of data about you by Matomo in the manner and for the purposes set out above.
 
+<iframe style="border: 0; height: 200px; width: 100%;" src="http://matomo.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+
 <!-- Stop editing content here -->
 <!-- Start editing content here -->

@@ -17,12 +17,13 @@ The use of this website is generally possible without providing personal data. R
 
 ### Name and contact details of the person responsible
 
-Dr. Valérie Schüller    
+The President
+Prof. Dr. Reinhard Jahn    
 Wilhelmsplatz 1  
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
 +49 551 39 - 1821000 (Fax)  
-praesidentin@uni-goettingen.de  
+praesident@uni-goettingen.de  
 
 ### Contact details of the company data protection officer
 

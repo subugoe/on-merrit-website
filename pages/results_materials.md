@@ -13,6 +13,7 @@ symbol: "download"
 You can find all our publications also on [Zenodo](https://zenodo.org/communities/onmerrit/).
 
 ## Logo in different formats
+
 * [Logo (JPG)]({{ sitebase.url }}/downloads/on-merrit_logo.jpg)  
 * [Logo (PNG)]({{ sitebase.url }}/downloads/on-merrit_logo.png)
 * [Logo (SVG)]({{ sitebase.url }}/downloads/on-merrit_logo.svg)  

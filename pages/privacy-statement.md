@@ -16,8 +16,9 @@ The use of this website is generally possible without providing personal data. R
 ## Duty to inform when collecting personal data from the data subject
 
 ### Name and contact details of the person responsible
-The President   
-Prof. Dr. Reinhard Jahn    
+
+The President  
+Prof. Dr. Reinhard Jahn  
 Wilhelmsplatz 1  
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
@@ -67,7 +68,6 @@ poststelle@lfd.niedersachsen.de
 ## Right of revocation in case of consent
 
 If you have consented to processing by the Niedersächsische Staats- und Universitätsbibliothek Göttingen by means of an appropriate declaration, you can revoke your consent at any time for the future. The legality of data processing based on the consent until revocation is not affected by this.
-
 
 ## Statistical data for the operator of the website
 

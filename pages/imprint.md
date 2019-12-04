@@ -61,7 +61,6 @@ Themify Icons - <https://themify.me/themify-icons>
 
 The avatar for missing pictures of team members is from: <https://pixabay.com/de/profil-mann-benutzer-home-42914/>  
 
-
 ## Internet addresses
 
 <http://on-merrit.eu, http://on-merrit.eu>

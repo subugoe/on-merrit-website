@@ -7,7 +7,7 @@ position: bottom
 alt: "Privacy-statement"
 ---
 <!-- Start editing content here -->
-<I>Scroll for German version<I/> 
+<I>Scroll for German version</I> 
   
 Please be aware that data transmission over the Internet (e.g. communication via e-mail) may be subject to security gaps. A complete protection of data against access by third parties is not possible. The use of the contact data published within the scope of the imprint obligation by third parties for sending unsolicited advertising and information material is hereby expressly prohibited. The operators of these pages expressly reserve the right to take legal action in the event of unsolicited advertising information being sent, for example in the form of spam mails.
 

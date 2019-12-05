@@ -6,7 +6,7 @@
   height: $sticky-footer-height;
 
   @include breakpoint(medium only) {
-    height: ($sticky-footer-height * 1.25);
+    height: ($sticky-footer-height * 1.3);
   }
 
   @include breakpoint(small only) {

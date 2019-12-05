@@ -56,3 +56,14 @@
     text-align: right;
   }
 }
+
+.footer__funding {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  margin-bottom: 2rem;
+
+  div:first-of-type {
+    padding-right: 1rem;
+  }
+}

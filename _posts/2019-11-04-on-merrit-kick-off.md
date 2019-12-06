@@ -6,7 +6,7 @@ permalink: /news/2019-11-04-on-merrit-kick-off/
 parent: news
 ref: welcome
 ---
-From 4-5 of November 2019, the ON-MERRIT partners came together in Graz to kick of the 2,5 year project, coordinated by the Know-Center GmbH.
+From 4-5 of November 2019, the ON-MERRIT partners came together in Graz to kick of the 2,5 year project, coordinated by the Know-Center GmbH.To make sure we’re on track and working together from the beginning, all partners presented their ideas on how to best tackle our research questions. The whole team worked on coordinating the plans for the different tasks, refining ON-MERRIT’s priorities, and identifying ways to support each other. The kick-off meeting was not only very productive, but we also really enjoyed working together. Full of enthusiasm, we even skipped a restaurant visit at lunch-time. Still, the delicious dinner at the restaurant the Steirer in Graz more than made up for this. Looks like there is nothing in the way for ON-MERRIT to become a real success!
 
 ![Gruppenfoto]({{ site.url }}/img/bilder_team/gruppenfoto.jpeg "Gruppenfoto"){: style="min-width: 100%" }
 

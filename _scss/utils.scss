@@ -1,0 +1,26 @@
+$listName: 1, 2, 3, 4, 5, 6;
+$listSizes: 0.5, 1, 1.5, 2, 2.5, 3;
+$listAttr: "margin", "padding";
+$listDir: "top", "bottom", "left", "right";
+
+@each $attr in $listAttr {
+  @each $name in $listName {
+    @each $dir in $listDir {
+      .#{$attr}#{"-"}#{$dir}#{"-"}#{$name} {
+        #{$attr}#{"-"}#{$dir}: #{nth($listSizes, $name) + "rem"};
+      }
+    }
+  }
+}
+
+/// Set ```text-align: center``` if breakpoint ```small```.<br>
+/// To be used at HTML tags in HTML source.
+.small-centered-text {
+  @include breakpoint(small only) {
+    text-align: center;
+  }
+}
+
+.debug {
+  border: 2px solid red;
+}

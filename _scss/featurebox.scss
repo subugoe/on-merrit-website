@@ -1,0 +1,37 @@
+.featurebox__icon {
+  border-bottom: 5px solid $metrics-blue;
+  min-height: 3rem;
+  height: 3.33rem;
+  vertical-align: bottom;
+
+  @extend .text-center;
+  @extend .padding-bottom-1;
+
+  img {
+    width: 25px;
+  }
+}
+
+.featurebox__header {
+  border-bottom: 5px solid $metrics-purple;
+  min-height: 3.33rem;
+
+  @extend .padding-bottom-1;
+  @extend .padding-left-1;
+
+  @include breakpoint(small only) {
+    min-height: 0;
+
+    img {
+      padding-right: 0.5rem;
+    }
+  }
+}
+
+.featurebox__content {
+  @extend .margin-top-1;
+}
+
+.featurebox__content > img {
+  margin-right: 4px;
+}

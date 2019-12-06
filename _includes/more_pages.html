@@ -1,0 +1,15 @@
+<div class="cell medium-10 medium-offset-1 large-8 large-offset-2">
+    {% if page.parent %}
+    {% assign parentpage = site.pages | where:"ref", page.parent %}
+    {% assign children = site.pages | where:"parent", page.parent %}
+    {% assign asdf = children | where:"lang", page.lang %}
+    <h3>{{ site.data.lang.morepages }} "{{ parentpage[0].title }}"</h3>
+    <ul>
+        {% for child in asdf %}
+        {% unless child.title == page.title %}
+        <li><a href="{{ site.baseurl }}{{ child.permalink }}">{{ child.title }}</a></li>
+        {% endunless %}
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>

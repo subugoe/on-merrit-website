@@ -1,0 +1,18 @@
+title: "on-merrit"
+email: test@example.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "//on-merrit.eu"
+url: "//on-merrit.eu"
+timezone: Europe/Berlin
+permalink: pretty
+markdown: kramdown
+destination: "on-merrit-website"
+exclude:
+  - npm.log
+  - node_modules
+  - package.json
+  - .editorconfig
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - on-merrit-website

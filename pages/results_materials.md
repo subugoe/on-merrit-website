@@ -10,7 +10,7 @@ symbol: "download"
 ---
 <!-- Start editing content here -->
 
-You can find all our publications also on [Zenodo](https://zenodo.org/communities/onmerrit/).
+You can find all our publications also on [Zenodo](https://zenodo.org/communities/on-merrit/).
 
 ## Logo in different formats
 

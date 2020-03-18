@@ -63,7 +63,7 @@ The avatar for missing pictures of team members is from: <https://pixabay.com/de
 
 ## Internet addresses
 
-<http://on-merrit.eu, http://on-merrit.eu>
+<https://on-merrit.eu/>
 
 ## Social Media
 

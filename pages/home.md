@@ -80,7 +80,7 @@ All project events will be announced in this area.
     <img src="{{ site.baseurl }}/img/icons/download.svg">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/download.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/results_materials/">Results & Materials</a></h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/download.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/results/">Results & Materials</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 In this area you can find presentations, reports and dissemination material from the project.

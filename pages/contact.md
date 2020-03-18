@@ -9,7 +9,7 @@ alt: "Contact the project coordinator"
 ---
 <!-- Start editing content here -->
 Tony Ross-Hellauer (project coordinator)  
-Hannah Metzler (project manager)
+Thomas Klebel (project manager)
 
 Know-Center GmbH  
 Research Center for Data-Driven Business & Big Data Analytics  

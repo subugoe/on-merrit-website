@@ -42,7 +42,7 @@ The project acronym stands for <b>O</b>bserving and <b>N</b>egating <b>M</b>atth
 <!-- About -->
 <div class="featurebox cell grid-x grid-container medium-6">
   <div class="hide-for-small-only columns medium-2 featurebox__icon">
-    <img src="{{ site.baseurl }}/img/icons/download.svg">
+    <img src="{{ site.baseurl }}/img/icons/info-alt.svg">
   </div>
   <div class="cell medium-10">
     <h2 class="featurebox__header">

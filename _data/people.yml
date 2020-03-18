@@ -5,12 +5,12 @@
   mail: tross@know-center.at
   text: Tony is an information scientist with a background in philosophy. He is project coordinator (PI) and contributes across the whole project.
   
-- name: Thomas Klebel
-  urls: https://thomasklebel.eu/
+- name: Hannah Metzler
+  urls: 
     en:
-      -
-  mail: tklebel@know-center.at
-  text: Thomas is a sociologist. He is project manager and contributes to the investigation of Matthew effects in academia and industry.
+      - https://twitter.com/hannahmetzler1
+  mail: hmetzler@know-center.at
+  text: Hannah is a cognitive scientist. She is the project manager, and contributes
 
 - name: Angela Fessl
   urls:

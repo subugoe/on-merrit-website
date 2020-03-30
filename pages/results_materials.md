@@ -29,7 +29,7 @@ participation
 * D6.3 Synthesis reports: Disciplinary and gender case studies
 * D6.4 Final guidelines and policy recommendations
 * D7.1 H - Requirement No. 1 1 - (Confidential)
-* D7.2 POPD - Requirement No.2 1 - (Confidential)
+* D7.2 POPD - Requirement No. 2 1 - (Confidential)
 
 You can find all our publications on [Zenodo](https://zenodo.org/communities/on-merrit/).
 

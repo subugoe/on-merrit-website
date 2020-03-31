@@ -9,7 +9,7 @@ order: 3
 alt: "ON-MERRIT Code of Conduct"
 ---
 <!-- Start editing content here -->
-## 1 Introduction.
+## 1 Introduction
 
 Within ON-MERRIT, we conduct research on cumulative (dis-)advantages in Responsible Research & Innovation and Open Science. We are using qualitative and computational methods complemented by stakeholder engagement and co-creation. In all our activities we aim to be as inclusive, open and responsible as possible. This code of conduct summarizes our agreed behaviour for conducting research and interacting with various stakeholders. 
 If you believe someone is violating the ON-MERRIT code of conduct, please report the incident to our CoC committee.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ON-MERRIT Code of Conduct"
+title: "Code of Conduct"
 permalink: /about/code-conduct/
 parent: about
 ref: code

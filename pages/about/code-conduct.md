@@ -11,23 +11,23 @@ alt: "Code of Conduct"
 <!-- Start editing content here -->
 #ON-MERRIT Code of Conduct 
 
-##1 Introduction.
+## 1 Introduction.
 
 Within ON-MERRIT, we conduct research on cumulative (dis-)advantages in Responsible Research & Innovation and Open Science. We are using qualitative and computational methods complemented by stakeholder engagement and co-creation. In all our activities we aim to be as inclusive, open and responsible as possible. This code of conduct summarizes our agreed behaviour for conducting research and interacting with various stakeholders. 
 If you believe someone is violating the ON-MERRIT code of conduct, please report the incident to our CoC committee.
 
-##1.1 ON-MERRIT code of conduct for community engagement 
+## 1.1 ON-MERRIT code of conduct for community engagement 
 
 ON-MERRIT aims to provide a welcoming and supportive environment to every individual engaging with the project’s activities, regardless of background and identity. Every person participating in ON-MERRIT activities commits to follow this Code of Conduct and to respect the consequences of misconduct. The following descriptions of expected and unexpected behaviours are based on the Codes of Conduct of The Carpentries and the Open Education Conference. 
 
-###Expected behaviour
+### Expected behaviour
 
 * We encourage inclusive and respectful interactions and language in all our events and platforms.
 * We encourage mutual support and collaboration.
 * Do your best to accept constructive criticism.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 
-###Unacceptable behaviour
+### Unacceptable behaviour
 
 We don’t accept any behaviour (written, verbal, physical) that excludes, intimidates or discomforts participants or users in face-to-face as well as online-settings.
 Such behaviour includes 
@@ -37,11 +37,11 @@ Such behaviour includes
 * Repeated disruption of activities and communication.
 * Continuing to initiate interaction and to publish private communication without explicit consent.
 
-###Consequences in case of violation
+### Consequences in case of violation
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately. All reported unacceptable behaviour will be followed up in a confidential way. The primary means of resolving conflicts will be to seek dialogue between conflicting parties, with the goal to agree on apologies to be made and necessary behavioral changes in the future. If no common agreement can be achieved, temporary or permanent exclusion from ON-MERRIT events and access to the Twitter account will be considered. 
 
-##1.2 ON-MERRIT code of conduct for research
+## 1.2 ON-MERRIT code of conduct for research
 
 ON-MERRIT commits to follow the ALLEA European Code of Conduct for research integrity, following its fundamental principles of research integrity:
 * “Reliability in ensuring the quality of research, reflected in the design, the methodology, the analysis and the use of resources. 
@@ -61,11 +61,11 @@ In addition, the project follows the core principles of Open Science as describe
 * All publications will be Open Access, usually via a Creative Commons Attribution license (CC BY), but Creative Commons Attribution - No Derivatives (CC BY-ND) will also be considered especially for humanities and social sciences work, either by publishing in OA journals or other peer-reviewed media, or via archiving author-accepted manuscripts immediately upon acceptance or publication.
 * Authorship will be strictly according to contributions (no ‘gift’ or ‘ghost’ authorship) and author contributions shall be clearly stated for each publication (e.g., via the CREDIT taxonomy). 
 
-#Contact Information
+# Contact Information
 
 * Dr. Birgit Schmidt
 * Bernhard as research integrity coordinator
 
-#License and Attribution
+# License and Attribution
 
 This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license and bases on the Code of Conducts by The Carpentries, Open Education Conference, the ALLEA European Code of Conduct for research integrity and the ORRGs research integrity policy.

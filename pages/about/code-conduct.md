@@ -18,7 +18,7 @@ If you believe someone is violating the ON-MERRIT code of conduct, please report
 
 ## 1.1 ON-MERRIT code of conduct for community engagement 
 
-ON-MERRIT aims to provide a welcoming and supportive environment to every individual engaging with the project’s activities, regardless of background and identity. Every person participating in ON-MERRIT activities commits to follow this Code of Conduct and to respect the consequences of misconduct. The following descriptions of expected and unexpected behaviours are based on the Codes of Conduct of The Carpentries and the Open Education Conference. 
+ON-MERRIT aims to provide a welcoming and supportive environment to every individual engaging with the project’s activities, regardless of background and identity. Every person participating in ON-MERRIT activities commits to follow this Code of Conduct and to respect the consequences of misconduct. The following descriptions of expected and unexpected behaviours are based on the Codes of Conduct of [The Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and the [Open Education Conference](https://openedconference.org/2019/code-of-conduct/). 
 
 ### Expected behaviour
 
@@ -30,7 +30,9 @@ ON-MERRIT aims to provide a welcoming and supportive environment to every indivi
 ### Unacceptable behaviour
 
 We don’t accept any behaviour (written, verbal, physical) that excludes, intimidates or discomforts participants or users in face-to-face as well as online-settings.
-Such behaviour includes 
+
+Such behaviour includes: 
+
 * Excluding, disrespectful and threatening language or comments on the basis of  gender, looks, sexual orientation, race, religion, or disability (including jokes and swearing).
 * Causing someone to fear for their safety (through stalking, following, or intimidation).
 * Nonconsensual or unwelcome physical contact or sexual attention
@@ -43,23 +45,23 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. Al
 
 ## 1.2 ON-MERRIT code of conduct for research
 
-ON-MERRIT commits to follow the ALLEA European Code of Conduct for research integrity, following its fundamental principles of research integrity:
+ON-MERRIT commits to follow the [ALLEA European Code of Conduct for research integrity](https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf), following its fundamental principles of research integrity:
 * “Reliability in ensuring the quality of research, reflected in the design, the methodology, the analysis and the use of resources. 
 * Honesty in developing, undertaking, reviewing, reporting and communicating research in a transparent, fair, full and unbiased way.
 * Respect for colleagues, research participants, society, ecosystems, cultural heritage and the environment.
 * Accountability for the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider impact.”
 
-In addition, the project follows the core principles of Open Science as described in the ORRG’s (Open and Reproducible Research Group at TU Graz) research integrity policy. In particular, we will apply the following points mentioned in the policy to the ON-MERRIT project:
+In addition, the project follows the core principles of Open Science as described in the ORRG’s ([Open and Reproducible Research Group](https://www.tugraz.at/institute/isds/research/orrg/) at TU Graz) [research integrity policy](https://www.tugraz.at/institute/isds/research/groups/orrg-open-science-and-research-integrity-policy/#c245005). In particular, we will apply the following points mentioned in the policy to the ON-MERRIT project:
 
 * We will work openly, collaboratively and to the most inclusive standards possible. This includes striving for gender parity and diversity on all projects, where possible.
-* Research data should be considered a public good, rather than the ‘property’ of individual researchers. Hence, unless there are compelling reasons not to, data sharing will be our default approach. We will re-use data and acknowledge the original source wherever possible. Data of finished projects will always be made Findable, Accessible, Interoperable, and Reusable.
+* Research data should be considered a public good, rather than the ‘property’ of individual researchers. Hence, unless there are compelling reasons not to, data sharing will be our default approach. We will re-use data and acknowledge the original source wherever possible. Data of finished projects will always be made [Findable, Accessible, Interoperable, and Reusable](https://www.nature.com/articles/sdata201618).
 * We will implement an effective Data Management Plan for the project to ensure effective research data management and enable later data-sharing. 
 * Software code will be released under a Free and Open Source license.
 * We will endeavour to reach out beyond our own networks, and especially to share our work with non-specialist audiences as much as possible, via social media and public engagement. We will favour participatory approaches and always be open to dialogue and collaboration with others.
 * All work presented at conferences, including talks and posters, will be made publicly available simultaneously with events, or if this is not possible, as soon as possible afterwards, via open repositories such as Zenodo. 
 * Studies will be published as preprints (at the latest) upon submission for publication.
 * All publications will be Open Access, usually via a Creative Commons Attribution license (CC BY), but Creative Commons Attribution - No Derivatives (CC BY-ND) will also be considered especially for humanities and social sciences work, either by publishing in OA journals or other peer-reviewed media, or via archiving author-accepted manuscripts immediately upon acceptance or publication.
-* Authorship will be strictly according to contributions (no ‘gift’ or ‘ghost’ authorship) and author contributions shall be clearly stated for each publication (e.g., via the CREDIT taxonomy). 
+* Authorship will be strictly according to contributions (no ‘gift’ or ‘ghost’ authorship) and author contributions shall be clearly stated for each publication (e.g., via the [CREDIT taxonomy](https://www.casrai.org/credit.html)). 
 
 # Contact Information
 
@@ -68,4 +70,4 @@ In addition, the project follows the core principles of Open Science as describe
 
 # License and Attribution
 
-This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license and bases on the Code of Conducts by The Carpentries, Open Education Conference, the ALLEA European Code of Conduct for research integrity and the ORRGs research integrity policy.
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/) and bases on the Code of Conducts by [The Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), [Open Education Conference](https://openedconference.org/2019/code-of-conduct/), the [ALLEA European Code of Conduct for research integrity](https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf) and the [ORRGs research integrity policy](https://www.tugraz.at/institute/isds/research/groups/orrg-open-science-and-research-integrity-policy/#c245005).

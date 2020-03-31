@@ -9,7 +9,7 @@ order: 3
 alt: "Code of Conduct"
 ---
 <!-- Start editing content here -->
-#ON-MERRIT Code of Conduct 
+# ON-MERRIT Code of Conduct 
 
 ## 1 Introduction.
 

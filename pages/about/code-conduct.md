@@ -65,8 +65,8 @@ In addition, the project follows the core principles of Open Science as describe
 
 # Contact Information
 
-* Dr. Birgit Schmidt
-* Bernhard as research integrity coordinator
+* Dr. Birgit Schmidt - Göttingen State and University Library [email](mailto:bschmidt@sub.uni-goettingen.de)
+* Dr. Bernhard Wieser - TU Graz [email](mailto:bernhard.wieser@tugraz.at)
 
 # License and Attribution
 

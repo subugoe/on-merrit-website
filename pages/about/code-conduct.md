@@ -6,7 +6,7 @@ parent: about
 ref: code
 position:
 order: 3
-alt: "Code of Conduct"
+alt: "ON-MERRIT Code of Conduct"
 ---
 <!-- Start editing content here -->
 ## 1 Introduction.

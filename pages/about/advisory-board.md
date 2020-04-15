@@ -1,4 +1,3 @@
-
 ---
 layout: team
 title: "Advisory Board"
@@ -7,7 +6,7 @@ ref: advisory-board
 parent: about
 position: 
 order: 4
-alt: "meet the advisory board members"
+alt: "introduction of the advisory board"
 ---
 <main class="grid-x grid-container">
   <div class="cell medium-10 medium-offset-1 large-8 large-offset-2">

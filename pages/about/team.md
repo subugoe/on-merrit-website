@@ -5,7 +5,7 @@ permalink: /uber_uns/team/
 ref: team
 parent: about
 position: 
-order: 2
+order: 3
 alt: "introduction of the project team"
 ---
 <main class="grid-x grid-container">

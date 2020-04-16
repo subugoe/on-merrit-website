@@ -6,6 +6,8 @@ permalink: /news/2019-12-16-on-merrit-at-sts-conference/
 parent: news
 ref: sts announcement
 ---
+Due to the current situation with the global Coronavirus pandemic and the official regulations passed by the Austrian Government we regret to inform you that the conference, which was planned to be held from May 4th to 6th, 2020, has been postponed. 
+ 
 We are pleased to announce that two of our colleagues in ON-MERRIT, [Stefan Reichmann and Bernhard Wieser]({{ site.url }}/uber_uns/team/), are co-organizing next year’s [Science, Technology, Society conference (STS)](https://www.tugraz.at/arbeitsgruppen/sts/sts-conference-graz/) which will take place in Graz, Austria, 4-6 May 2020.    
 The conference is organized annually by the Science, Technology, Society Unit at Graz University of Technology.   
 

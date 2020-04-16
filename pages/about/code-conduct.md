@@ -5,7 +5,7 @@ permalink: /about/code-conduct/
 parent: about
 ref: code
 position:
-order: 3
+order: 2
 alt: "ON-MERRIT Code of Conduct"
 ---
 <!-- Start editing content here -->

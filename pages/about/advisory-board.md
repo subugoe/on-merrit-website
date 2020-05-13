@@ -24,7 +24,7 @@ alt: "introduction of the advisory board"
         {% assign img = item.name | downcase | replace: ' ', '_' %}
         <img src="{{ site.baseurl }}/img/advisory-board/image_{{ img }}.jpg" class="team_member_img" aria-hidden="true">
         <br>
-        {{ item.name }}<br>
+        <!--{{ item.name }}<br>-->
         <!--<a href="mailto:{{ item.mail}}" title="Mail to {{ item.name }}">
           <img src="{{ site.baseurl }}/img/icons/email.svg" aria-hidden="true">
           <span class="show-for-sr">Mail to {{ item.name }}</span>

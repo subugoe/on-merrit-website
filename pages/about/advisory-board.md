@@ -28,7 +28,7 @@ alt: "introduction of the advisory board"
         {{ item.institution }} 
         {% for url in item.urls.en %}
         <a href="{{ url }}" title="Open hompage of {{ item.name }}">
-          <img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px; margin-left: 5px;" aria-hidden="true">
+          <img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px; margin-left: 5px; margin-bottom: 10px" aria-hidden="true">
           <span class="show-for-sr">Open hompage of {{ item.name }}</span>
         </a>
         {% endfor %}

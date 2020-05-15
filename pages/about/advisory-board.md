@@ -32,7 +32,7 @@ alt: "introduction of the advisory board"
           <span class="show-for-sr">Open hompage of {{ item.name }}</span>
         </a>
         {% endfor %}
-        <p>{{ item.text }}</p>
+        <p style="text-align:justify;">{{ item.text }}</p>
       </div>
     </div>
     {% endfor %}

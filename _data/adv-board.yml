@@ -1,4 +1,5 @@
 - name: Juan Pablo Alperin
+  institution: Simon Fraser University
   urls:
     en:
       - https://www.scholcommlab.ca/
@@ -6,6 +7,7 @@
   text: Juan Pablo Alperin is an Assistant Professor at the School of Publishing at Simon Fraser University, the Associate Director of Research for the Public Knowledge Project, and the co-director of the Scholarly Communications Lab. He is a multi-disciplinary scholar, with training in computer science, geography, and education, whose research focuses on the public's use of research. He has contributed a combination of conceptual, methodological, and empirical peer-reviewed articles and presentations in academic journals, conferences, and industry events.
   
 - name: Erich Grießler
+  institution: Institute for Advanced Studies Vienna
   urls: 
     en:
       - https://www.ihs.ac.at/ru/techno-science-and-societal-transformation/people/erich-griessler/
@@ -13,15 +15,17 @@
   text: Dr. Erich Grießler, head of the research group “Techno-Science & Societal Transformation” (TSST), studied history and sociology and received his Ph.D. in philosophy at the University of Vienna. He has  been senior researcher at the IHS since 1999. His research covers STS, sociology of biomedicine, ELSA of biotechnology, citizen engagement and participation in research and innovation (R&I) policy, political regulation of biotechnology, political sociology, and RRI. He and his group currently co-ordinate the H2020 project NewHoRRIzon and have been or are involved in many RRI projects funded by the European Commission.
 
 - name: Thed van Leeuwen
+  institution: CWTS
   urls:
     en:
       - https://www.cwts.nl/people/thedvanleeuwen
   mail: 
-  text: Thed is a senior researcher at CWTS and co-leading the research theme on open scholarship. Thed's research focuses on the various aspects of open scholarship, as well as on the research assessment of scholarly activity in the social sciences, the humanities, and law. He is co-editor of the OUP journal Research Evaluation, as well as the chair of ENID, the European Network of Indicator Designers.
+  text: Thed van Leeuwen is a senior researcher at CWTS and co-leading the research theme on open scholarship. Thed's research focuses on the various aspects of open scholarship, as well as on the research assessment of scholarly activity in the social sciences, the humanities, and law. He is co-editor of the OUP journal Research Evaluation, as well as the chair of ENID, the European Network of Indicator Designers.
 
 - name: Maria Fernanda Rollo
+  institution: NOVA University Lisbon
   urls:
     en:
       - https://orcid.org/0000-0002-2249-7279
   mail: 
-  text: Maria Fernanda Rollo is an Historian. PhD and Aggregate in Contemporary History. Full professor at the History Department of the Faculty of Social Sciences and Humanities NOVA University of Lisbon. Coordinator of the Ph.D. program in History and of the post-graduation course Management and Policy in Science and Technology.
+  text: Maria Fernanda Rollo is a Historian. PhD and Aggregate in Contemporary History. Full professor at the History Department of the Faculty of Social Sciences and Humanities NOVA University of Lisbon. Coordinator of the PhD programme in History and of the post-graduation course Management and Policy in Science and Technology.

@@ -24,12 +24,12 @@
     "stylelint-order": "^4.0.0"
   },
   "scripts": {
-    "sass": "node-sass --output-style compressed --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
-    "prefix": "postcss --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.css | postcss --use cssnano > $(PWD)/css/style.min.css",
-    "sass_build": "node-sass --output-style compressed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
-    "sass_raw": "node-sass --output-style expanded --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
-    "prefix_raw": "postcss --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.min.css",
-    "prefix_build": "postcss --no-map --use autoprefixer -b 'last 2 versions' < $(PWD)/css/style.css | postcss --no-map --use cssnano > $(PWD)/css/style.min.css",
+    "sass": "node-sass --output-style compressed --source-map-embed $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
+    "prefix": "postcss --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.css | postcss --use cssnano > $(pwd)/css/style.min.css",
+    "sass_build": "node-sass --output-style compressed $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
+    "sass_raw": "node-sass --output-style expanded --source-map-embed $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
+    "prefix_raw": "postcss --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.min.css",
+    "prefix_build": "postcss --no-map --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.css | postcss --no-map --use cssnano > $(pwd)/css/style.min.css",
     "watch:css": "nodemon -e scss -x \"npm run build:css\"",
     "build:css": "npm run sass && npm run prefix",
     "watch:jekyll": "bundle exec jekyll b -w",

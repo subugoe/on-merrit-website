@@ -14,13 +14,14 @@ Check our deliverables:
 * [D1.2 Data management plan](https://doi.org/10.5281/zenodo.3733238)
 * [D2.1 Dissemination, valorisation and participation plan](https://doi.org/10.5281/zenodo.3733274)
 * D2.2 Participation and impact report
+* [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
 * D3.2 Report on Matthew effects in science
 * D3.3 Uptake of RRI and Open Science in training and policy
-* D4.1 Synthesis of previous research and specifications of research methods
+* [D4.1 Synthesis of previous research and specifications of research methods](https://zenodo.org/record/3874587)
 * D4.2 Drivers and barriers to uptake of Open Science resources in industry
 * D4.3 Quantitative analysis of Open Science practices in European patent literature
-* D5.1 Scoping report of previous research on the role of Open Science resources in deliberative
-policy-making
+* [D5.1 Scoping report of previous research on the role of Open Science resources in deliberative
+policy-making](https://doi.org/10.5281/zenodo.3875054)
 * D5.2 Results of a survey on the uptake of Open Science in information seeking practices in policymaking
 * D5.3 Networks of engagement in deliberative policymaking: Expert reflections on barriers to
 participation

@@ -17,7 +17,7 @@ Check our deliverables:
 * [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
 * D3.2 Report on Matthew effects in science
 * D3.3 Uptake of RRI and Open Science in training and policy
-* [D4.1 Synthesis of previous research and specifications of research methods](https://zenodo.org/record/3874587)
+* [D4.1 Synthesis of previous research and specifications of research methods](https://doi.org/10.5281/zenodo.3875017)
 * D4.2 Drivers and barriers to uptake of Open Science resources in industry
 * D4.3 Quantitative analysis of Open Science practices in European patent literature
 * [D5.1 Scoping report of previous research on the role of Open Science resources in deliberative

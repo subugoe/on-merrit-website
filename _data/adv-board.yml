@@ -1,10 +1,10 @@
-- name: Juan Pablo Alperin
-  institution: Simon Fraser University
+- name: Elizabeth Gadd
+  institution: Loughborough University
   urls:
     en:
-      - https://www.scholcommlab.ca/
+      - https://about.me/elizabeth.gadd
   mail: 
-  text: Juan Pablo Alperin is an Assistant Professor at the School of Publishing at Simon Fraser University, the Associate Director of Research for the Public Knowledge Project, and the co-director of the Scholarly Communications Lab. He is a multi-disciplinary scholar, with training in computer science, geography, and education, whose research focuses on the public's use of research. He has contributed a combination of conceptual, methodological, and empirical peer-reviewed articles and presentations in academic journals, conferences, and industry events.
+  text: Elizabeth Gadd is a Scholarly Communications specialist working as the Research Policy Manager (Publications) at Loughborough University. She is the founding chair of the Lis-Bibliometrics Forum which is responsible for The Bibliomagician blog. She co-Champions the ARMA Research Evaluation Special Interest Group. She also chairs the INORMS International Research Evaluation Working Group and was the recipient of the 2020 INORMS Award for Research Management Leadership. Elizabeth regularly writes, speaks, tweets and blogs about open research, copyright ownership and responsible research evaluation.
   
 - name: Erich Grießler
   institution: Institute for Advanced Studies Vienna
@@ -13,22 +13,6 @@
       - https://www.ihs.ac.at/ru/techno-science-and-societal-transformation/people/erich-griessler/
   mail: 
   text: Dr. Erich Grießler, head of the research group “Techno-Science & Societal Transformation” (TSST), studied history and sociology and received his Ph.D. in philosophy at the University of Vienna. He has  been senior researcher at the IHS since 1999. His research covers STS, sociology of biomedicine, ELSA of biotechnology, citizen engagement and participation in research and innovation (R&I) policy, political regulation of biotechnology, political sociology, and RRI. He and his group currently co-ordinate the H2020 project NewHoRRIzon and have been or are involved in many RRI projects funded by the European Commission.
-
-- name: Thed van Leeuwen
-  institution: CWTS
-  urls:
-    en:
-      - https://www.cwts.nl/people/thedvanleeuwen
-  mail: 
-  text: Thed van Leeuwen is a senior researcher at CWTS and co-leading the research theme on open scholarship. Thed's research focuses on the various aspects of open scholarship, as well as on the research assessment of scholarly activity in the social sciences, the humanities, and law. He is co-editor of the OUP journal Research Evaluation, as well as the chair of ENID, the European Network of Indicator Designers.
-
-- name: Maria Fernanda Rollo
-  institution: NOVA University Lisbon
-  urls:
-    en:
-      - https://orcid.org/0000-0002-2249-7279
-  mail: 
-  text: Maria Fernanda Rollo is a Historian. PhD and Aggregate in Contemporary History. Full professor at the History Department of the Faculty of Social Sciences and Humanities NOVA University of Lisbon. Coordinator of the PhD programme in History and of the post-graduation course Management and Policy in Science and Technology.
   
 - name: Kurt Zatloukal
   institution: Medical University of Graz
@@ -37,3 +21,35 @@
       - https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=90075196
   mail: 
   text: Kurt Zatloukal, M.D. is professor of pathology at the Medical University of Graz, Austria and head of the Diagnostic and Research Center for Molecular BioMedicine. His research focuses on molecular pathology of diseases as well as digital pathology, biobanking and related data management technologies. He coordinated the preparatory phase of the European biobanking and biomolecular research infrastructure (BBMRI-ERIC) and is director of the Austrian national node BBMRI.at. He is Member of the Academia Europaea, corresponding member of the Austrian Academy of Sciences, and has published over 258 scientific papers and was co-inventor of 25 patent applications.
+  
+- name: Juan Pablo Alperin
+  institution: Simon Fraser University
+  urls:
+    en:
+      - https://www.scholcommlab.ca/
+  mail: 
+  text: Juan Pablo Alperin is an Assistant Professor at the School of Publishing at Simon Fraser University, the Associate Director of Research for the Public Knowledge Project, and the co-director of the Scholarly Communications Lab. He is a multi-disciplinary scholar, with training in computer science, geography, and education, whose research focuses on the public's use of research. He has contributed a combination of conceptual, methodological, and empirical peer-reviewed articles and presentations in academic journals, conferences, and industry events.
+  
+- name: Maria Fernanda Rollo
+  institution: NOVA University Lisbon
+  urls:
+    en:
+      - https://orcid.org/0000-0002-2249-7279
+  mail: 
+  text: Maria Fernanda Rollo is a Historian. PhD and Aggregate in Contemporary History. Full professor at the History Department of the Faculty of Social Sciences and Humanities NOVA University of Lisbon. Coordinator of the PhD programme in History and of the post-graduation course Management and Policy in Science and Technology.
+  
+- name: Simão Soares
+  institution: SilicoLife
+  urls:
+    en:
+      - http://www.silicolife.com/
+  mail: 
+  text: Simão Soares is CEO and co-founder of SilicoLife, a company combining AI and biology for the design of cell factories and novel pathways for the sustainable production of chemicals. MSc Bioinformatics (UMinho), postgraduate in management from NOVA School of Business and Economics and trained in Blue Ocean Strategy at INSEAD. He is also President of P-BIO, Portuguese Bioindustry Association, Global Shaper Alumni, an initiative of the World Economic Forum, and Climate Reality Leader.
+  
+- name: Thed van Leeuwen
+  institution: CWTS
+  urls:
+    en:
+      - https://www.cwts.nl/people/thedvanleeuwen
+  mail: 
+  text: Thed van Leeuwen is a senior researcher at CWTS and co-leading the research theme on open scholarship. Thed's research focuses on the various aspects of open scholarship, as well as on the research assessment of scholarly activity in the social sciences, the humanities, and law. He is co-editor of the OUP journal Research Evaluation, as well as the chair of ENID, the European Network of Indicator Designers.

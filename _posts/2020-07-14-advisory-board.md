@@ -22,4 +22,4 @@ ON-MERRIT Advisory Board:
 
 For more details please visit [https://on-merrit.eu/uber_uns/advisory-board/](https://on-merrit.eu/uber_uns/advisory-board/)
 
-![Photo by Brendan Church on Unsplash]({{ site.url }}/img/bilder_team/advisory-board/AdvB.jpg)
+![Photo by Brendan Church on Unsplash]({{ site.url }}/img/advisory-board/AdvB.jpg)

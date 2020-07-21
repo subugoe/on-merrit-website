@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Workshop on Matthew Effects in Climate Science and Policy Making"
-categories: news
+categories: events
 permalink: /news/2020-07-21-workshop-climate-change/
-parent: news
+parent: events
 ref: workshop climate change
 ---
 **SAVE THE DATE!**

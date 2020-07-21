@@ -7,8 +7,9 @@ parent: events
 ref: workshop climate change
 ---
 Open Science for the few is just the extension of privilege. Equity is a key aim of open science, but could Open Science policies actually worsen existing inequalities? 
+Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect? 
 
-Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect? The project ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Innovation Transition) investigates the impact of open science practices in academia, industry, and policy with a particular focus on institutions and individuals working in the areas of agriculture, climate and health (key pillars of the UN Sustainable Development Goals). For more details about ON-MERRIT, please visit [https://on-merrit.eu/](https://on-merrit.eu/).
+The project ON-MERRIT (Observing and Negating Matthew Effects in Responsible Research & Innovation Transition) investigates the impact of open science practices in academia, industry, and policy with a particular focus on institutions and individuals working in the areas of agriculture, climate and health (key pillars of the UN Sustainable Development Goals). For more details about ON-MERRIT, please visit [https://on-merrit.eu/](https://on-merrit.eu/).
 
 The first of three ON-MERRIT workshops is targeted specifically at experts, practitioners and policymakers in the fields of climate science and RRI and aims to understand potential effects of cumulative advantage (Matthew Effects) in RRI policy making and practice. The workshop will address two key research questions
 

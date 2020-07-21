@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Workshop on Matthew Effects in Climate Science and Policy Making"
-categories: events
-permalink: /events/2020-07-21-workshop-climate-change/
-parent: events
+categories: news
+permalink: /news/2020-07-21-workshop-climate-change/
+parent: news
 ref: workshop climate change
 ---
 Open Science for the few is just the extension of privilege. Equity is a key aim of open science, but could Open Science policies actually worsen existing inequalities? 

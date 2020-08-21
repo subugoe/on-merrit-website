@@ -2,9 +2,9 @@
 layout: post
 title: "Workshop on Matthew Effects in Climate Science and Policy Making"
 categories: events
-permalink: /events/2020-07-21-workshop-climate-change/
-parent: events
-ref: workshop climate change
+permalink: /eve/2020-07-21-workshop-climate-change/
+parent: eve
+ref: workshop-climate-change
 ---
 Open Science for the few is just the extension of privilege. Equity is a key aim of open science, but could Open Science policies actually worsen existing inequalities? 
 Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect? 

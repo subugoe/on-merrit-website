@@ -8,4 +8,4 @@ order: 10
 alt: "Project events."
 symbol: "calendar"
 ---
-{% include list_all_news.html %}
+{% include list_all_events.html %}

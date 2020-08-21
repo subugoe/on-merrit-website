@@ -1,6 +1,6 @@
-<p>test4</p>
+<p>test5</p>
 {% assign eves=site.events %}
-{% for event in events %}
+{% for event in eves %}
 <h3><a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h3>
 <p>{{ event.date | date: "%Y-%m-%d" }}</p>
 <p>{{ event.excerpt | remove: '<p>' | remove: '</p>' }}<br>

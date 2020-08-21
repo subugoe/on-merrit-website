@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: "ON-MERRIT test"
 categories: events
 permalink: /eve/test-event/

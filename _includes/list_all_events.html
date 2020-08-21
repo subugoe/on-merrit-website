@@ -1,9 +1,2 @@
-{% assign posts=site.events %}
-{% for post in posts %}
-<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-<p>{{ post.date | date: "%Y-%m-%d" }}</p>
-<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<br>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ site.data.lang.more }}</a>
-</p>
-{% endfor %}
+
 test

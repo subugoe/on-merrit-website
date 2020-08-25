@@ -10,7 +10,7 @@ ON-MERRIT took part in the EASST/4S 2020 conference titled “[Locating and Timi
 [EASST](https://easst.net/) is the European Association for the Study of Science and Technology, where [4S](https://4sonline.org/) is the Society for Social Studies of Science. Like many other events in 2020, the conference happened virtually due to the COVID-19 pandemic.
 
 Our colleagues Stefan Reichmann and Bernhard Wieser from TU Graz submitted the abstract _“Between Uptake and Rigour – Dilemmas of Open Science”_, and on August 19th, 2020 they had the chance to present their ongoing work in ON-MERRIT. Both lead the project work package that investigates the relationship between research and policymaking; to better identify the key issues, some crucial research questions to help understand that relationship have been developed, such as: 
-* are Open Science outputs used in policymaking, and if so, how? 
+* Are Open Science outputs used in policymaking, and if so, how? 
 * To what extent does the adoption of Open Science practices affect the adoption of scientific knowledge by policymakers? 
 * Why use scientific knowledge in policy?
 

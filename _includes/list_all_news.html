@@ -1,8 +1,12 @@
 {% assign posts=site.posts %}
 {% for post in posts %}
+{% for category in post.categories %}
+{% if category == 'news' %}
 <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 <p>{{ post.date | date: "%Y-%m-%d" }}</p>
 <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<br>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ site.data.lang.more }}</a>
 </p>
+{% endif %}
+{% endfor %}
 {% endfor %}

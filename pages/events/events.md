@@ -5,7 +5,7 @@ permalink: /events/
 ref: events
 position: top
 order: 20
-children: true
+children: false
 alt: "Events to meet on-merrit"
 symbol: "calendar"
 ---

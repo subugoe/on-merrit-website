@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Workshop on Matthew Effects in Climate Science and Policy Making"
-categories: events
-permalink: /news/2020-07-21-workshop-climate-change/
+categories: ['events', 'news']
+permalink: /events/2020-07-21-workshop-climate-change/
 parent: events
 ref: workshop climate change
 ---

@@ -5,3 +5,4 @@ on-merrit-website
 npm.log
 npm-debug.log
 sassdoc
+_site

@@ -69,7 +69,7 @@ In this area you can find more information about the project activities and the 
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 All project events will be announced in this area.
-  * 2020-10- 29-30 \| [Workshop on Matthew Effects in Climate Science and Policy Making]({{site.url}}events/2020-07-21-workshop-climate-change/)
+  * 2020-10- 29-30 \| [Workshop on Matthew Effects in Climate Science and Policy Making]({{site.url}}/events/2020-07-21-workshop-climate-change/)
 <!-- Stop editing here -->
 </div>
   </div>

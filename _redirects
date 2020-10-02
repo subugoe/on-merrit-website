@@ -1,0 +1,6 @@
+# this file is a good guide: https://github.com/rbind/yihui/blob/master/static/_redirects
+# guide on how to do redirects with jekyll: https://wsvincent.com/jekyll-redirects-on-netlify/
+# general docs: https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# test redirect for talks
+/thomas/ https://thomasklebel.eu

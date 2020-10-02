@@ -16,3 +16,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - on-merrit-website
+include: [_redirects]

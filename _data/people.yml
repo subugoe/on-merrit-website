@@ -30,9 +30,15 @@
   urls:
     en:
       - https://twitter.com/ViktoriaPammer
-  mail: vpammer@know-center.at> 
+  mail: vpammer@know-center.at 
   text: As assistant professor and research area manager, Viktoria researches digital technologies for knowledge-intensive activities like learning and knowledge construction in organisations.
 
+- name: Nicki Lisa Cole
+  urls:
+    en:
+      - https://orcid.org/0000-0002-6034-533X
+  mail: ncole@know-center.at
+  text: Nicki is a sociologist with expertise in political economy and sustainability. In ON-MERRIT, she contributes to investigating the impact open science has on the uptake of research by policy-makers.
 
 - name: Bernhard Wieser
   urls:
@@ -55,12 +61,12 @@
   mail: petr.knoth@open.ac.uk
   text: Being a researcher in the areas of text-mining, digital libraries and open science and the founder & head of CORE, Petr is Scientific Coordinator of ON-MERRIT. 
 
-- name: Bikash Gyawali
+- name: David Pride
   urls:
     en:
-      -
-  mail: bikash.gyawali@open.ac.uk
-  text: Bikash is a computer scientist. His work will focus on big data analysis of scholarly data to understand Matthew effect in academia.
+      - https://twitter.com/davejavupride
+  mail: david.pride@open.ac.uk
+  text: David is a computer scientist. His work focuses on the Matthew Effect in Open Science and the ramifications for responsible research metrics.
 
 - name: Nancy Pontika
   urls:

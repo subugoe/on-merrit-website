@@ -2,7 +2,7 @@
 layout: post
 title: "ON-MERRIT survey on the usage of freely available scientific resources in SMEs and industry"
 categories: news
-permalink: /news/2021-01-20_SMEs-industry-survey/
+permalink: /news/2021-01-20-SMEs-industry-survey/
 parent: news
 ref: ON-MERRIT SMEs and industry survey
 ---

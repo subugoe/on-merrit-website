@@ -14,4 +14,4 @@ We invite employees of all levels working in SMEs and industry in the domains of
 
 We kindly ask you to spend 20 minutes - each completed survey counts!
 
-The survey is available in (https://survey.know-center.tugraz.at/index.php?r=survey/index&sid=311541&lang=en)[English] and (https://survey.know-center.tugraz.at/index.php?r=survey/index&sid=311541&lang=de)[German]; please pick the language you prefer and spread the news in your networks!
+The survey is available in (English)[https://survey.know-center.tugraz.at/index.php?r=survey/index&sid=311541&lang=en] and (German)[https://survey.know-center.tugraz.at/index.php?r=survey/index&sid=311541&lang=de]; please pick the language you prefer and spread the news in your networks!

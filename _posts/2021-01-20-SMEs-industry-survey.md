@@ -9,7 +9,9 @@ ref: ON-MERRIT SMEs and industry survey
 
 ON-MERRIT has launched a survey directed at SMEs and the industry to understand the usage of freely available scientific resources.
 
-<iframe width="100%" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 With this survey, we would like to find out whether and to what extent small and medium-sized enterprises and industry use or do not use freely available scientific resources (= Open Science Resources) such as data, information and publications.
 We invite employees of all levels working in SMEs and industry in the domains of health, climate and agriculture to take part in the survey.

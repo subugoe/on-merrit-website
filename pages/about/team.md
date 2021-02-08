@@ -1,7 +1,7 @@
 ---
 layout: team
 title: "Team"
-permalink: /uber_uns/team/
+permalink: /about/team/
 ref: team
 parent: about
 position: 

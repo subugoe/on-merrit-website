@@ -5,4 +5,5 @@
 # test redirect for talks
 /thomas/ https://thomasklebel.eu
 
-/about/team/ https://on-merrit.eu/uber_uns/team/
+/uber_uns/team/ /about/team/
+/uber_uns/advisory-board/ /about/advisory-board/

@@ -1,7 +1,7 @@
 ---
 layout: team
 title: "Advisory Board"
-permalink: /uber_uns/advisory-board/
+permalink: /about/advisory-board/
 ref: advisory-board
 parent: about
 position: 

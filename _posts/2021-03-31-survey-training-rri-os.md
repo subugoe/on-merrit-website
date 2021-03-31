@@ -11,3 +11,5 @@ ON-MERRIT is pleased to announce the launch of its survey to develop deeper insi
 
 The survey, running until the end of April 2021, aims at providing a better understanding of the familiarity of researchers with the application of RRI and Open Science in their research areas. 
 Simultaneously, the survey aims to identify which institutional policies support RRI and Open Science principles and which of them are more frequently adopted by academics.
+
+![leaflet](/img/posts/survey-OS-RRI.png)

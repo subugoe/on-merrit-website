@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ON-MERRIT Survey on the uptake of Responsible Research and Innovation and Open Science principles in relation to policy and training"
+title: "ON-MERRIT survey on the uptake of Responsible Research and Innovation and Open Science principles in relation to policy and training"
 categories: news
 permalink: /news/2021-03-31-on-merrit-survey-training-rri-os/
 parent: news

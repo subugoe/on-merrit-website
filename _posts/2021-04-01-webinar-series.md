@@ -2,7 +2,7 @@
 layout: post
 title: "ON-MERRIT webinar series"
 categories: news
-permalink: /news/2021-04-01_webinar-series/
+permalink: /news/2021-04-01-webinar-series/
 parent: news
 ref: webinars
 ---

@@ -20,3 +20,12 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 * 11 June 2021, 14 CEST. **Open Science as a driver to change?**, Paola Chiara Masuzzo. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJErceGtrz8jHNVr5wPtHivRSaTy7QCbDrLW)
 * 21 June 2021, 14:30 CEST. **Research evaluation open issues**, Lizzie Gadd. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJYrfuqprDwvHt3Wa0eazx7esYBsGdZlm4Ck)
 * TBD. **Open Science in Indonesia**, Dasapta Erwin Irawan
+
+
+### Matthew Effects in Science
+Who might be left behind in the transition to Open Science? This webinar introduces participants to the general research themes and activities of ON-MERRIT, an EC-funded project to investigate how and if open and responsible research practices could worsen existing inequalities. We will introduce the concept of the Matthew effect and how it functions to cumulatively advantage (and disadvantage) researchers, institutions and research work, and then go on to describe how our multidisciplinary team is using qualitative and computational methods in order to examine how such effects could be observed in Open Science and Responsible Research & Innovation (RRI). We will also describe how ON-MERRIT aims at suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate negative Matthew effects.
+
+### Open Science as a driver to change?
+Open research is definitely amongst the hot topics of the moment: the COVID19 pandemic has brought an exceptional sharing of research data and an even more exceptional uptake of preprints publishing.
+But is this methodological revolution here to stay? What is holding us back from making Open Science simply the default way of doing Science? And is Open Science responsible science by default?
+In this ON-MERRIT webinar, Paola will illustrate the principles and motivation behind a complete transition to open research practices. She will make the case that the uptake of these practices needs to be a slow, responsible process, based on education and training of core and much-needed skills. Paola will also dedicate some time to the invisible side of open science, the one that can lead to the construction of more inclusive, fair, and just academic spaces.

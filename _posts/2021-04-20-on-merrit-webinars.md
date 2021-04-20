@@ -21,6 +21,8 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 * 21 June 2021, 14:30 CEST. **Research evaluation open issues**, Lizzie Gadd. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJYrfuqprDwvHt3Wa0eazx7esYBsGdZlm4Ck)
 * TBD. **Open Science in Indonesia**, Dasapta Erwin Irawan
 
+- - -
+
 ## More details
 
 ### Matthew Effects in Science, Bernhard Wieser, Stefan Reichmann, Tony Ross-Hellauer

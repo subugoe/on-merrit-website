@@ -28,6 +28,8 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 ### Matthew Effects in Science.
 Who might be left behind in the transition to Open Science? This webinar introduces participants to the general research themes and activities of ON-MERRIT, an EC-funded project to investigate how and if open and responsible research practices could worsen existing inequalities. We will introduce the concept of the Matthew effect and how it functions to cumulatively advantage (and disadvantage) researchers, institutions and research work, and then go on to describe how our multidisciplinary team is using qualitative and computational methods in order to examine how such effects could be observed in Open Science and Responsible Research & Innovation (RRI). We will also describe how ON-MERRIT aims at suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate negative Matthew effects.
 
+- - -
+
 ### Open Science as a driver to change?
 Open research is definitely amongst the hot topics of the moment: the COVID19 pandemic has brought an exceptional sharing of research data and an even more exceptional uptake of preprints publishing.
 But is this methodological revolution here to stay? What is holding us back from making Open Science simply the default way of doing Science? And is Open Science responsible science by default?

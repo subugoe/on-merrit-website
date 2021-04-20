@@ -13,7 +13,7 @@ They aim to present the project objectives and results on the one hand and explo
 
 The burning issues tackled in the first batch of conversations are various. They span from research assessment and ways for RRI to change career progression and equal evaluation to Open Science as a driver to the change in research practices, from the difficulties in gender equality in research and academia to open science in the Global South.
 
-Here’s the summary of the webinars and the topics that we will discuss over the next months. Register and stay up to date by following us on [Twitter]!
+Here’s the summary of the webinars and the topics that we will discuss over the next months. Register and stay up to date by following us on [Twitter](https://twitter.com/OnMerrit)!
 
 
 * 18 May 2021, 11:00 CEST. **Matthew Effects in Science**, Bernhard Wieser, Stefan Reichmann, Tony Ross-Hellauer. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJwsdeqsrDsqGdXRFJpg3HQyQMw28zo_JhNW)

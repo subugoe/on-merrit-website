@@ -18,7 +18,7 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 
 * 18 May 2021, 11:00 CEST. **Matthew Effects in Science**, Bernhard Wieser, Stefan Reichmann, Tony Ross-Hellauer. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJwsdeqsrDsqGdXRFJpg3HQyQMw28zo_JhNW)
 * 11 June 2021, 14 CEST. **Open Science as a driver to change?**, Paola Chiara Masuzzo. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJErceGtrz8jHNVr5wPtHivRSaTy7QCbDrLW)
-* 21 June 2021, 14:30 CEST. **Researcher- and university-level evaluation: same problem, same solution?**, Lizzie Gadd. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJYrfuqprDwvHt3Wa0eazx7esYBsGdZlm4Ck)
+* 21 June 2021, 14:30 CEST. **Researcher-level and university-level evaluation: same problem, same solution?**, Lizzie Gadd. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJYrfuqprDwvHt3Wa0eazx7esYBsGdZlm4Ck)
 * TBD. **Open Science in Indonesia**, Dasapta Erwin Irawan
 
 - - -
@@ -37,5 +37,5 @@ In this ON-MERRIT webinar, Paola will illustrate the principles and motivation b
 
 - - -
 
-### Researcher- and university-level evaluation: same problem, same solution?
-The publication- and reputation-focussed, evaluation of individual researchers leads to all sorts of well-documented problems. These include a reluctance to shift to open research practices, irreproducible science, and high retraction rates. Responsible metrics approaches such as the Declaration on Research Assessment (DORA) and the Leiden Manifesto seek to address some of these issues. However, less-well documented are the negative impacts of the the publication- and reputation-focussed evaluation of universities, particularly by the Global University Rankings, from which much unhelpful researcher-level evaluation stems. This talk will explore the relationship between individual and university-level evaluation, the resulting negative impacts and Matthew effects, and what we might do about them.
+### Researcher-level and university-level evaluation: same problem, same solution?
+The publication- and reputation-focussed evaluation of individual researchers leads to all sorts of well-documented problems. These include a reluctance to shift to open research practices, irreproducible science, and high retraction rates. Responsible evaluation approaches such as the Declaration on Research Assessment (DORA) and the Leiden Manifesto seek to address some of these issues. However, less-well documented are the negative impacts of the publication- and reputation-focussed evaluation of universities, particularly by the Global University Rankings, from which much unhelpful researcher-level evaluation stems. This talk will explore the relationship between researcher-level and university-level evaluation, the resulting negative impacts and Matthew effects, and what we might do about them.

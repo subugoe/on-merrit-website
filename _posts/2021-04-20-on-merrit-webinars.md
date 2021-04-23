@@ -26,7 +26,8 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 ## More details
 
 ### Matthew Effects in Science.
-Who might be left behind in the transition to Open Science? This webinar introduces participants to the general research themes and activities of ON-MERRIT, an EC-funded project to investigate how and if open and responsible research practices could worsen existing inequalities. We will introduce the concept of the Matthew effect and how it functions to cumulatively advantage (and disadvantage) researchers, institutions and research work, and then go on to describe how our multidisciplinary team is using qualitative and computational methods in order to examine how such effects could be observed in Open Science and Responsible Research & Innovation (RRI). We will also describe how ON-MERRIT aims at suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate negative Matthew effects.
+Who might be left behind in the transition to Open Science? This webinar introduces participants to Robert Merton’s notion of the Matthew effect in academia and his later work on cumulative advantage (disadvantage). Against this backdrop of a close reading of Merton’s analysis, the webinar draws links to the recent reception of these two concepts in the Open Science discourse.
+The webinar is related to research activities in ON-MERRIT, an EC-funded project to investigate how and if open and responsible research practices could mitigate or worsen existing inequalities in academia.
 
 - - -
 

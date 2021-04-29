@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ON-MERRIT webinars"
+title: "ON-MERRIT webinar series"
 categories: news
 permalink: /news/2021-04-20-on-merrit-webinars/
 parent: news
@@ -9,7 +9,7 @@ ref: welcome
 
 ON-MERRIT is pleased to announce its brand new series of virtual appointments!
 
-They aim to present the project objectives and results on the one hand and explore several issues related to Responsible Research and Innovation (RRI) and Open Science and experts in those fields.
+They aim to present the project objectives and results on the one hand and explore several issues related to Responsible Research and Innovation (RRI) and Open Science with experts in those fields.
 
 The burning issues tackled in the first batch of conversations are various. They span from research assessment and ways for RRI to change career progression and equal evaluation to Open Science as a driver to the change in research practices, from the difficulties in gender equality in research and academia to open science in the Global South.
 

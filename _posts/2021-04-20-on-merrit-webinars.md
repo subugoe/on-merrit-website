@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ON-MERRIT webinar series"
-categories: ['events', 'news']
+categories: news
 permalink: /news/2021-04-20-on-merrit-webinars/
 parent: news
 ref: welcome

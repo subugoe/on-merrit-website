@@ -12,4 +12,7 @@ The webinar introduced participants to Robert Merton’s notion of the Matthew e
 
 Watch the recordings!
 
+<div class="responsive-embed">
+  <iframe width="560" height="315" src="https://youtu.be/QAbuIMEJSYU"> frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![ON-MERRIT webinar on Matthew Effect in Science](https://on-merrit.eu/img/posts/on-merrit-MEs-webinar.jpg)](https://youtu.be/QAbuIMEJSYU)

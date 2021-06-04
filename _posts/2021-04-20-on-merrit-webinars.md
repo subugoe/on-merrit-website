@@ -38,5 +38,5 @@ In this ON-MERRIT webinar, Paola will illustrate the principles and motivation b
 
 - - -
 
-### Researcher-level and university-level evaluation: same problem, same solution?
-The publication- and reputation-focussed evaluation of individual researchers leads to all sorts of well-documented problems. These include a reluctance to shift to open research practices, irreproducible science, and high retraction rates. Responsible evaluation approaches such as the Declaration on Research Assessment (DORA) and the Leiden Manifesto seek to address some of these issues. However, less-well documented are the negative impacts of the publication- and reputation-focussed evaluation of universities, particularly by the Global University Rankings, from which much unhelpful researcher-level evaluation stems. This talk will explore the relationship between researcher-level and university-level evaluation, the resulting negative impacts and Matthew effects, and what we might do about them.
+### Bibliometrics, the Matthew effect and diversity in academia
+This webinar will explore what academia rewards and the consequences of this, before looking at what academia actually values about research and researchers, and why this is often difficult to measure. It will then consider whether falling back on bibliometrics to evaluate research is always a bad thing before drawing some conclusions.

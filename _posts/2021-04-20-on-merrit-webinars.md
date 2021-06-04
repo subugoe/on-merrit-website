@@ -18,7 +18,7 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 
 * 18 May 2021, 11:00 CEST. **Matthew Effects in Science**, Bernhard Wieser, Stefan Reichmann, Tony Ross-Hellauer. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJwsdeqsrDsqGdXRFJpg3HQyQMw28zo_JhNW)
 * 11 June 2021, 14 CEST. **Open Science as a driver to change?**, Paola Chiara Masuzzo. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJErceGtrz8jHNVr5wPtHivRSaTy7QCbDrLW)
-* 21 June 2021, 14:30 CEST. **Bibliometrics, the Matthew effect and diversity in academia**, Lizzie Gadd. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJYrfuqprDwvHt3Wa0eazx7esYBsGdZlm4Ck)
+* 21 June 2021, 14:30 CEST. **Bibliometrics, the Matthew effect and diversity in academia**, Lizzie Gadd. 
 * 07 July 2021, 10:30 CEST. **Open Science in Indonesia**, Dasapta Erwin Irawan. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJIodu6sqzkoHtG3lDJKVQ2W8OEIGNNeGfAd)
 
 - - -

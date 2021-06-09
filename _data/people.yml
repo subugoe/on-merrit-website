@@ -17,7 +17,14 @@
     en:
       - https://twitter.com/afessl
   mail: afessl@know-center.at
-  text: Angela has a background in computer science. As work package and task leader in the project she investigates the uptake of open data and science in industry. 
+  text: Angela has a background in computer science. As work package and task leader in the project she investigates the uptake of open data and science in industry.
+
+- name: Anja Rainer
+  urls:
+    en:
+      - 
+  mail: arainer@know-center.at
+  text: Anja is a sociologist with expertise in empirical research methods and political sociology. She contributes to project management and to the investigation of Matthew-effects and incentives in RRI and Open Science.  
 
 - name: Ilire Hasani-Mavriqi
   urls:

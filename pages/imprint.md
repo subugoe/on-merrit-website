@@ -30,12 +30,12 @@ University of Göttingen Foundation under Public Law, University Foundation Comm
 ## Editorial responsibility  
 
 The person responsible for the content of this website in accordance with Section 55 (2) of the State Broadcasting Treaty (RStV) is:  
-Helene Brinken 
+Ilaria Fava 
 Göttingen State and University Library  
 Platz der Göttinger Sieben 1  
 37073 Göttingen  
 Germany  
-E-mail: brinken(at)sub.uni-goettingen.de  
+E-mail: fava(at)sub.uni-goettingen.de  
 
 ## VAT identification number  
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ON-MERRIT webinar Bibliometrics, the Matthew effect and diversity in academia"
+title: "ON-MERRIT webinar on Bibliometrics, the Matthew effect and diversity in academia"
 categories: ['events', 'news']
 permalink: /news/2021-06-10-bibliometrics-MEs-diversity/
 parent: news

@@ -71,7 +71,6 @@ In this area you can find more information about the project activities and the 
   * 2021-06-10 \| [ON-MERRIT webinar on Bibliometrics, the Matthew effect and diversity in academia]({{site.url}}news/2021-06-10-bibliometrics-MEs-diversity/)
   * 2021-05-18 \| [ON-MERRIT webinar on Matthew Effects in Science]({{site.url}}news/2021-05-18-matthew-effects-in-science/)
   * 2021-04-21 \| [ON-MERRIT webinar series]({{site.url}}/news/2021-04-20-on-merrit-webinars/)
-  * 2020-10- 29-30 \| [Workshop on Matthew Effects in Climate Science and Policy Making]({{site.url}}/events/2020-07-21-workshop-climate-change/)
 <!-- Stop editing here -->
 </div>
   </div>

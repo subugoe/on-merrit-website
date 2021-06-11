@@ -7,6 +7,7 @@ parent: news
 ref: welcome
 ---
 The second webinar of this series, with the participation of Paola Chiara Masuzzo as keynote speaker, discussed the idea of Open Science as a real driver for change.
+
 Open research is definitely amongst the hot topics of the moment: the COVID19 pandemic has brought an exceptional sharing of research data and an even more exceptional uptake of preprints publishing. But is this methodological revolution here to stay? What is holding us back from making Open Science simply the default way of doing Science? And is Open Science responsible science by default? Paola illustrated the principles and motivation behind a complete transition to open research practices, including her own Open Science manifesto. 
 She made the case that the uptake of these practices needs to be a slow, responsible process, based on education and training of core and much-needed skills. Paola also dedicated some time to the invisible side of open science, the one that can lead to the construction of more inclusive, fair, and just academic spaces.
 

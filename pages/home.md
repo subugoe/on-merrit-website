@@ -68,6 +68,7 @@ In this area you can find more information about the project activities and the 
     </h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
+  * 2021-06-11 \| [ON-MERRIT webinar on Open Science as a driver to change]({{site.url}}news/2021-06-11-OS-driver-to-change/)
   * 2021-06-10 \| [ON-MERRIT webinar on Bibliometrics, the Matthew effect and diversity in academia]({{site.url}}news/2021-06-10-bibliometrics-MEs-diversity/)
   * 2021-05-18 \| [ON-MERRIT webinar on Matthew Effects in Science]({{site.url}}news/2021-05-18-matthew-effects-in-science/)
   * 2021-04-21 \| [ON-MERRIT webinar series]({{site.url}}/news/2021-04-20-on-merrit-webinars/)

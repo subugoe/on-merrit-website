@@ -40,3 +40,8 @@ In this ON-MERRIT webinar, Paola will illustrate the principles and motivation b
 
 ### Bibliometrics, the Matthew effect and diversity in academia
 This webinar will explore what academia rewards and the consequences of this, before looking at what academia actually values about research and researchers, and why this is often difficult to measure. It will then consider whether falling back on bibliometrics to evaluate research is always a bad thing before drawing some conclusions.
+
+- - -
+
+### Open Science in Indonesia
+As research is global, so is Open Science. However, as ON-MERRIT investigates, Open Science doesn't necessarily grant inclusion and opportunities for everyone. In this last webinar of the series, Dasapta will guide us through the challenges of Open Science in Indonesia and why these matter for the global research world.

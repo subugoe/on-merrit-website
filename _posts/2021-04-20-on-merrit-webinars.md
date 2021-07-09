@@ -19,7 +19,7 @@ Here’s the summary of the webinars and the topics that we will discuss over th
 * 18 May 2021, 11:00 CEST. **Matthew Effects in Science**, Bernhard Wieser, Stefan Reichmann, Tony Ross-Hellauer. [Recordings](https://on-merrit.eu/news/2021-05-18-matthew-effects-in-science/)
 * 11 June 2021, 14 CEST. **Open Science as a driver to change?**, Paola Chiara Masuzzo. [Recordings](https://on-merrit.eu/news/2021-06-11-OS-driver-to-change/)
 * 21 June 2021, 14:30 CEST. **Bibliometrics, the Matthew effect and diversity in academia**, Lizzie Gadd. [Recordings](https://on-merrit.eu/news/2021-06-10-bibliometrics-MEs-diversity/)
-* 07 July 2021, 10:30 CEST. **Open Science in Indonesia**, Dasapta Erwin Irawan. [Registration](https://uni-goettingen.zoom.us/meeting/register/tJIodu6sqzkoHtG3lDJKVQ2W8OEIGNNeGfAd)
+* 07 July 2021, 10:30 CEST. **Open Science in Indonesia**, Dasapta Erwin Irawan. [Recordings](https://on-merrit.eu/news/2021-07-07-OS-indonesia/)
 
 - - -
 

@@ -13,7 +13,7 @@ ON-MERRIT uses a co-creation process to investigate how user studies, different 
 
 To do so, the project uses a mixed-methods research approach consisting of surveys, interviews, and workshops with selected experts. 
 
-So far, ON-MERRIT used co-creation methods to prepare the tools used to interact with industry and policy makers.
+So far, ON-MERRIT used co-creation methods to prepare the tools used to interact with **industry** and **policy makers**.
 
 For industry, a two step approach was taken: first, several interviews with stakeholders from SMEs and industries were conducted. The goal was to understand information-seeking behaviours, awareness of Open Science in general and uptake of Open Science Resources, such as Open Access, Open Data and Open Source specifically, as well as the related absorptive capacities for Open Science uptake. Second, based on the feedback received from the interviewees, a questionnaire has been created and circulated to the interviewees as well as to the ON-MERRIT consortium to receive further feedback, before disseminating it to selected SMEs and industries in the domains of agriculture, climate and health. 
 
@@ -22,4 +22,4 @@ Engaging with policy makers implied manifold approaches: first came the identifi
 In addition to our interactions with industry and policy makers as presented above, we developed two other surveys. With the first one, we are aiming at getting a clearer picture of the uptake of Responsible Research and Innovation and Open Science principles in relation to policy and training. With the second one, we would like to deepen our understanding of academic researchers’ views on career progression. 
 As a follow up of the first survey, we conducted interviews with key persons that can help clarify the policies on OS and RRI at the institutional level.
 
-Towards the end of 2021, ON-MERRIT is organising three co-creation workshops with researchers, research managers and funders to receive feedback and validation of the recommendations and guidelines that represent the final outcome of the project. If you wish to be involved, please get in contact with us: info@on-merrit.eu.
+Towards the end of 2021, **ON-MERRIT is organising three co-creation workshops with researchers, research managers and funders to receive feedback and validation of the recommendations and guidelines that represent the final outcome of the project. If you wish to be involved, please get in contact with us: info[at]on-merrit.eu**.

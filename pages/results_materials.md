@@ -15,7 +15,7 @@ Check our deliverables:
 * [D2.1 Dissemination, valorisation and participation plan](https://doi.org/10.5281/zenodo.3733274)
 * D2.2 Participation and impact report
 * [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
-* D3.2 Report on Matthew effects in science
+* [D3.2 ON-MERRIT D3.2 Cumulative Advantage in Open Science and RRI: A Large-Scale Quantitative Study](https://doi.org/10.5281/zenodo.5547286)
 * D3.3 Uptake of RRI and Open Science in training and policy
 * [D4.1 Synthesis of previous research and specifications of research methods](https://doi.org/10.5281/zenodo.3875017)
 * D4.2 Drivers and barriers to uptake of Open Science resources in industry

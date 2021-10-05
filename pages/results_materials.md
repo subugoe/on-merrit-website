@@ -19,7 +19,7 @@ Check our deliverables:
 * D3.3 Uptake of RRI and Open Science in training and policy
 * [D4.1 Synthesis of previous research and specifications of research methods](https://doi.org/10.5281/zenodo.3875017)
 * [D4.2 Drivers and barriers to uptake of Open Science resources in industry](https://doi.org/10.5281/zenodo.5549761)
-* D4.3 Quantitative analysis of Open Science practices in European patent literature
+* [D4.3 Quantifying the influence of Open Access on innovation and patents](https://doi.org/10.5281/zenodo.5550523)
 * [D5.1 Scoping report of previous research on the role of Open Science resources in deliberative
 policy-making](https://doi.org/10.5281/zenodo.3875054)
 * D5.2 Results of a survey on the uptake of Open Science in information seeking practices in policymaking

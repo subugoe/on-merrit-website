@@ -24,7 +24,7 @@ Check our deliverables:
 policy-making](https://doi.org/10.5281/zenodo.3875054)
 * [D5.2 Results of a survey on the uptake of Open Science in information seeking practices in policymaking](https://doi.org/10.5281/zenodo.5552165)
 * [D5.3 Networks of engagement in deliberative policymaking: Expert reflections on barriers to participation](https://doi.org/10.5281/zenodo.5550533)
-* D6.1 Report on RRI and Open Science metrics
+* [D6.1 Report on RRI and Open Science metrics](https://doi.org/10.5281/zenodo.5552196)
 * D6.2 Scenario modelling of interventions to overcome Matthew effects in RRI and Open Science transition
 * D6.3 Synthesis reports: Disciplinary and gender case studies
 * D6.4 Final guidelines and policy recommendations

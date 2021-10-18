@@ -15,7 +15,7 @@ Check our deliverables:
 * [D2.1 Dissemination, valorisation and participation plan](https://doi.org/10.5281/zenodo.3733274)
 * D2.2 Participation and impact report
 * [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
-* [D3.2 ON-MERRIT D3.2 Cumulative Advantage in Open Science and RRI: A Large-Scale Quantitative Study](https://doi.org/10.5281/zenodo.5547286)
+* [D3.2 Cumulative Advantage in Open Science and RRI: A Large-Scale Quantitative Study](https://doi.org/10.5281/zenodo.5547286)
 * D3.3 Uptake of RRI and Open Science in training and policy
 * [D4.1 Synthesis of previous research and specifications of research methods](https://doi.org/10.5281/zenodo.3875017)
 * [D4.2 Drivers and barriers to uptake of Open Science resources in industry](https://doi.org/10.5281/zenodo.5549761)
@@ -24,7 +24,7 @@ Check our deliverables:
 policy-making](https://doi.org/10.5281/zenodo.3875054)
 * [D5.2 Results of a survey on the uptake of Open Science in information seeking practices in policymaking](https://doi.org/10.5281/zenodo.5507619)
 * [D5.3 Networks of engagement in deliberative policymaking: Expert reflections on barriers to participation](https://doi.org/10.5281/zenodo.5550533)
-* [D6.1 Report on RRI and Open Science metrics](https://doi.org/10.5281/zenodo.5552196)
+* [D6.1 D6.1 Investigating Institutional Structures of Reward & Recognition in Open Science & RRI](https://doi.org/10.5281/zenodo.5552196)
 * D6.2 Scenario modelling of interventions to overcome Matthew effects in RRI and Open Science transition
 * D6.3 Synthesis reports: Disciplinary and gender case studies
 * D6.4 Final guidelines and policy recommendations

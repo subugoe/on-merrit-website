@@ -16,7 +16,7 @@ Check our deliverables:
 * D2.2 Participation and impact report
 * [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
 * [D3.2 Cumulative Advantage in Open Science and RRI: A Large-Scale Quantitative Study](https://doi.org/10.5281/zenodo.5547286)
-* D3.3 Uptake of RRI and Open Science in training and policy
+* [D3.3 Uptake of Open Science and Responsible Research and Innovation in Policy and Training](https://doi.org/10.5281/zenodo.5604632)
 * [D4.1 Synthesis of previous research and specifications of research methods](https://doi.org/10.5281/zenodo.3875017)
 * [D4.2 Drivers and barriers to uptake of Open Science resources in industry](https://doi.org/10.5281/zenodo.5549761)
 * [D4.3 Quantifying the influence of Open Access on innovation and patents](https://doi.org/10.5281/zenodo.5550523)

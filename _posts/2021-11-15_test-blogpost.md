@@ -12,5 +12,3 @@ For our survey, we received responses from 167 active researchers, with a slight
 
 Interestingly, we found that the majority of our survey participants had not received training in any of the above OS/RRI topics (very often a large majority). The most popular topics for those who had received training were OA publishing, Research Integrity, Gender, Open Data and OS in general. 
 
-{% include image.html img="img/posts/test-image.jpg" title="" caption="image caption for WP3 blog post" %}
-

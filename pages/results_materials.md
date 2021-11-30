@@ -13,7 +13,7 @@ Check our deliverables:
 * D1.1 Project management handbook (Confidential)
 * [D1.2 Data management plan](https://doi.org/10.5281/zenodo.3733238)
 * [D2.1 Dissemination, valorisation and participation plan](https://doi.org/10.5281/zenodo.3733274)
-* D2.2 Participation and impact report
+* [D2.2 Participation and impact report](https://doi.org/10.5281/zenodo.5741749)
 * [D3.1 RRI and Open Science Datasets](https://doi.org/10.5281/zenodo.3874586)
 * [D3.2 Cumulative Advantage in Open Science and RRI: A Large-Scale Quantitative Study](https://doi.org/10.5281/zenodo.5547286)
 * [D3.3 Uptake of Open Science and Responsible Research and Innovation in Policy and Training](https://doi.org/10.5281/zenodo.5604632)

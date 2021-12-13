@@ -7,7 +7,7 @@ parent: news
 ref: welcome
 ---
 
-by Thomas Klebel, Nancy Pontika, Antonia Correia, David Pride, Petr Knoth, Tony Ross-Hellauer
+*by Thomas Klebel, Nancy Pontika, Antonia Correia, David Pride, Petr Knoth, Tony Ross-Hellauer*
 
 Scientific knowledge is a key resource for achieving societal and economic goals. Open Science (OS) and Responsible Research and Innovation (RRI) promise to fundamentally transform scholarship to bring greater transparency, inclusivity and participation to research processes, and increase the academic, economic and societal impact of research outputs. These form a cross-cutting agenda that stands to contribute to most of the [UN’s Sustainable Development Goals (SDGs)](https://sdgs.un.org/), and are a central pillar of the European Commission’s Digital Single Market strategy. Yet access to scientific products and processes is not made uniform simply because they are made available via the Internet. How equitable is the implementation of OS and RRI across a range of stakeholder categories, and in particular for those at the peripheries? Might RRI interventions, in some cases, actually deepen socioeconomic inequalities (the digital divide) and be in conflict with wider sustainable development goals? How do geographical, socio-economic, cultural and structural conditions lead to peripheral configurations in the European knowledge landscape? What factors are at play and what can be done (at a policy level) to foster absorptive capacity and enhance OS/RRI uptake and contributions to scientific production across regions?
 
@@ -69,7 +69,7 @@ Training support services for OS/RRI available at the institutions is focused on
 
 These results highlight the difficulties involved in providing OS/RRI training and support services at the institutional level and reiterate the fact that training in OS/RRI is essential for researchers to be able to perform science in a solid and transparent way and comply with most funder’s requirements and mandates worldwide. There is a need for skilled professionals and the development, normalization and integration of OS and RRI into curricula. In addition, the role of communities in reinforcing practices and promoting a real cultural change must be fully embraced. More work should be undertaken to foster interoperable infrastructures, integrated training resources and peer-to-peer training, as well as increased resources for training staff and infrastructure.
 
-All results are available in Deliverable 3.3. “Uptake of Open Science and Responsible Research and Innovation in Policy and Training” on Zenodo.
+All results are available in [Deliverable 3.3. “Uptake of Open Science and Responsible Research and Innovation in Policy and Training”](https://doi.org/10.5281/zenodo.5604632) on Zenodo.
 
 ## Conclusions
 The work conducted in this WP constitutes an important step to better understand dynamics of inequality in academia and their relationship to OS and RRI. We collected relevant data on OS/RRI policies, conducted multiple large-scale quantitative studies, as well as an international survey and comprehensive interviews. Based on this evidence-base, we developed a set of preliminary recommendations, such as the following.

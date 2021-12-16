@@ -66,6 +66,7 @@ Consequently, there is overall still a need to further investigate how such an u
 - Policy recommendation2: Increase the number of Open Access publications available for all interested stakeholders, especially in domains with no strong tradition in Open Access.
 - Policy recommendation 3: Improve the evidence-base associated with the linkage between science and innovation by providing comprehensive metadata about patent citations to scientific work as open data.
 
+- - -
 
 [^1]: Directorate-General for Research and Innovation. “Open Innovation, Open Science, Open to the World.” Digital Single Market. 2016. [https://publications.europa.eu/en/publication-detail/-/publication/3213b335-1cbc-11e6-ba9a-01aa75ed71a1](https://publications.europa.eu/en/publication-detail/-/publication/3213b335-1cbc-11e6-ba9a-01aa75ed71a1)
 [^2]: Fell, M.J. The Economic Impacts of Open Science: A Rapid Evidence Assessment. Publications 2019, 7, 46. [https://doi.org/10.3390/publications7030046}(https://doi.org/10.3390/publications7030046)

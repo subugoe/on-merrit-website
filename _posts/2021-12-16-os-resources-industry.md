@@ -21,6 +21,7 @@ In Phase I of our research, we addressed this question by semi-systematically su
 Our results show that finding relevant resources is a crucial step in recognizing and assimilating new external information, and although there are many ways to look for information (e.g. online search engines or up-to-date libraries at universities, etc.), finding relevant information is not as easy as one might think. Common barriers in this regard are difficulties in explicating information needs for finding relevant information; lack of time; and concerns regarding the quality of the content found. Another often mentioned barrier is the accessibility to information. Although recent studies have highlighted how searching for information on the internet has become ubiquitous, personal and social contacts still play an important role. 
 
 Further findings regarding the information-seeking behaviour among industrial actors indicate that research outputs currently play a somewhat peripheral role in general. The evidence we collected points to a general lack of information-seeking skills amongst employees - and exploiting scientific resources for commercial ends requires skills specific to the subject area. Companies commonly acquire these skills by either hiring graduates or directly collaborating with academia. Open Access to research insights can provide efficiency gains (i.e. time and cost savings associated with accessing research) for SMEs and industries, as well as can enable the development of new products, services, and companies, by lowering the barriers for companies of all sizes (from large firms to start-ups) to accessing basic research. 
+
 For more information, please have a look at our deliverable report [D4.1 - Synthesis of previous research and specifications of research methods](https://zenodo.org/record/5018067#.YYvTC57MI2w) publicly available at Zenodo.
 
 ### Drivers and barriers to uptake of Open Science resources in industry
@@ -64,6 +65,7 @@ Consequently, there is overall still a need to further investigate how such an u
 - Policy recommendation 1: Make Open Science, its opportunities and benefits more visible, especially outside the university context. 
 - Policy recommendation2: Increase the number of Open Access publications available for all interested stakeholders, especially in domains with no strong tradition in Open Access.
 - Policy recommendation 3: Improve the evidence-base associated with the linkage between science and innovation by providing comprehensive metadata about patent citations to scientific work as open data.
+
 
 [^1]: Directorate-General for Research and Innovation. “Open Innovation, Open Science, Open to the World.” Digital Single Market. 2016. [https://publications.europa.eu/en/publication-detail/-/publication/3213b335-1cbc-11e6-ba9a-01aa75ed71a1](https://publications.europa.eu/en/publication-detail/-/publication/3213b335-1cbc-11e6-ba9a-01aa75ed71a1)
 [^2]: Fell, M.J. The Economic Impacts of Open Science: A Rapid Evidence Assessment. Publications 2019, 7, 46. [https://doi.org/10.3390/publications7030046}(https://doi.org/10.3390/publications7030046)

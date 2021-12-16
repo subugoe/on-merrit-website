@@ -24,6 +24,7 @@ Further findings regarding the information-seeking behaviour among industrial ac
 
 For more information, please have a look at our deliverable report [D4.1 - Synthesis of previous research and specifications of research methods](https://zenodo.org/record/5018067#.YYvTC57MI2w) publicly available at Zenodo.
 
+
 ### Drivers and barriers to uptake of Open Science resources in industry
 
 In the first research stream of Phase II, we wanted to deepen our finding of Phase I. 

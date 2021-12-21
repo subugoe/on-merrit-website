@@ -7,7 +7,8 @@ parent: news
 ref: welcome
 ---
 
-Open Science and Responsible Research and Inovation (RRI) hold the promise to make scientific endeavours more inclusive, participatory, understandable, accessible, and re-usable for large audiences. However, making processes open will not per se drive wide re-use or participation unless also accompanied by the capacity (in terms of knowledge, skills, financial resources, technological readiness and motivation) to do so. These capacities vary considerably across regions, institutions and demographics. Those advantaged by such factors will remain potentially privileged, putting Open Science and RRI’s agendas of inclusivity at risk of propagating conditions of “cumulative advantage”.
+Open Science and Responsible Research and Inovation (RRI) hold the promise to make scientific endeavours more inclusive, participatory, understandable, accessible, and re-usable for large audiences. 
+However, making processes open will not per se drive wide re-use or participation unless also accompanied by the capacity (in terms of knowledge, skills, financial resources, technological readiness and motivation) to do so. These capacities vary considerably across regions, institutions and demographics. Those advantaged by such factors will remain potentially privileged, putting Open Science and RRI’s agendas of inclusivity at risk of propagating conditions of “cumulative advantage”.
 
 Since 2019, the EC Horizon2020 project ON-MERRIT has been investigating these issues using scientometric, sociological and other approaches to examine how these factors influence the ways in which Open Science/RRI are taken up (and by whom). ON-MERRIT aims to synthesise current knowledge, produce new primary research findings across a multitude of Open Science domains, and inform future research and policy. 
 

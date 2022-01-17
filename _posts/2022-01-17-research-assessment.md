@@ -9,7 +9,7 @@ ref: welcome
 
 *by Thomas Klebel, Nancy Pontika, Tony Ross-Hellauer*
 
-*This content has been originally published on the [OpenAIRE blog](https://www.openaire.eu/blogs/research-assessment-must-reform-to-recognise-open-and-responsible-research-practices)*
+*This content has been originally published on the [OpenAIRE blog](https://www.openaire.eu/blogs/research-assessment-must-reform-to-recognise-open-and-responsible-research-practices).*
 
 Change is deep underway to make research more transparent and participatory through new open and responsible research practices. Key movements for change include Open Science, such as publishing Open Access (OA) or sharing research data and code, and approaches that make research and innovation more responsive to the needs of society (Responsible Research & Innovation, or RRI). Funders such as the European Commission, with its 95.5 billion Euro funding scheme [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), [are part of this movement](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science_en), as increasingly requiring open and responsible practices within the research they fund. Yet,  current research assessment processes are increasingly recognised as a barrier to this goal. Potential issues include the overuse of inappropriate indicators, an overemphasis on quantity over quality, and a neglect of open and responsible practices per se.
 

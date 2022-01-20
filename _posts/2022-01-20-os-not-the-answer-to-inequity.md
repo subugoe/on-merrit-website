@@ -7,8 +7,6 @@ parent: news
 ref: welcome
 ---
 
-### Open Science: Not the answer to inequity? 
-
 *	A new study identifies key threats to equity in Open Science
 *	Open Science has equity as a key aim but might in some circumstances actually endanger it
 *	Less well-resourced researchers, institutions and regions as well as women and young researchers most at risk 

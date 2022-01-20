@@ -7,13 +7,13 @@ parent: news
 ref: welcome
 ---
 
+Open Science for the few is just the extension of privilege. Equity is a key aim of Open Science, but could current Open Science policies actually worsen existing inequalities? Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect? The EC-funded project ON-MERRIT (on-merrit.eu) aims at contributing to an equitable scientific system that rewards researchers based on merit. For this purpose, it investigates the impact of Open Science practices using scientometric, sociological and other approaches.
+
 > A new study identifies key threats to equity in Open Science
 > 
 > Open Science has equity as a key aim but might in some circumstances actually endanger it
 > 
 > Less well-resourced researchers, institutions and regions as well as women and young researchers most at risk 
-
-Open Science for the few is just the extension of privilege. Equity is a key aim of Open Science, but could current Open Science policies actually worsen existing inequalities? Open Science needs resources (funding, time, knowledge, skills), and the traditionally advantaged people usually have more of them. Will their privilege mean that they are the ones to benefit most? How can we avoid the dynamic of the rich getting richer, known as the Matthew effect? The EC-funded project ON-MERRIT (on-merrit.eu) aims at contributing to an equitable scientific system that rewards researchers based on merit. For this purpose, it investigates the impact of Open Science practices using scientometric, sociological and other approaches.
 
 ON-MERRIT’s first major publication will be published online on 19th January 2022 in Royal Society Open Science. Entitled “Dynamics of Cumulative Advantage and Threats to Equity in Open Science: A Scoping Review”, the paper systematically scopes the scientific literature to, for the first time, synthesise knowledge to date on this subject. Key points we identify include:
 

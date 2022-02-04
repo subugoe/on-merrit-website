@@ -27,7 +27,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 | 14:00-15:00  | Presentation ON-MERRIT & results  |
 | 15:00-15:15  | Break  |
 | 15:15-16:00  | Outcomes & recommendations & Q&A  |
-| 16:00-16:45  | Keynote Leslie Chan - University of Toronto at Scarborough  |
+| 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough*  |
 | 16:45-17:00  | Closing and farewell  |
 
 ## Who are our keynote speakers?

@@ -2,7 +2,7 @@
 layout: post
 title: "ON-MERRIT final event: Ensuring Equity in Open Science"
 categories: ['events', 'news']
-permalink: /news/2022-02-08-ensuring-equity-open-science/
+permalink: /news/2022-02-04-ensuring-equity-open-science/
 parent: news
 ref: welcome
 ---

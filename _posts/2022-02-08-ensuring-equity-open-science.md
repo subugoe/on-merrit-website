@@ -16,7 +16,7 @@ Renowned keynote speakers will frame the conversation around rewards, incentives
 
 Attendees will gain an understanding of the current status of the implementation of OS and RRI policies at all levels, learn about the challenges in fostering their adoption, and have the chance to discuss the practical recommendations proposed by the project. Researchers, funders, research institutions and policymakers from across Europe and beyond are invited to attend.
 
-Check the schedule and sign up! Participation in the conference is free, upon registration; [**please register here](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW)**.
+Check the schedule and sign up! Participation in the conference is free, upon registration; **[please register here](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW)**.
 
 ## Event's content:
 

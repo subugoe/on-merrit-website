@@ -7,7 +7,7 @@ parent: news
 ref: welcome
 ---
 
-**Are you interested in how Open Science and Responsible Research and Innovation can contribute to a more equitable scientific environment?
+**Are you interested in how Open Science and Responsible Research and Innovation can contribute to a more equitable scientific environment?**
 
 Then join ON-MERRIT’s final event on ensuring equity in Open Science! 
 

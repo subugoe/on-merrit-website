@@ -18,7 +18,7 @@ Attendees will gain an understanding of the current status of the implementation
 
 Check the schedule and sign up! Participation in the conference is free, upon registration; **[please register here](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW)**.
 
-## Event's content:
+## Event's agenda:
 
 | Time  | Content |
 | ------------- | ------------- |

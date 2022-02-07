@@ -22,7 +22,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 
 | Time  | Content |
 | ------------- | ------------- |
-| 13:00-13:15  | Welcome, intro to the event and to the keynote speaker  |
+| 13:00-13:15  | Welcomen and intro to the event  |
 | 13:15-14:00  | **Keynote Sarah de Rijcke** - *Centre for Science and Technology Studies (CWTS), Leiden University* will speak on equity and reform of rewards and recognition (title TBA)  |
 | 14:00-15:00  | Presentation ON-MERRIT & results  |
 | 15:00-15:15  | Break  |

@@ -23,11 +23,9 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 | Time  | Content |
 | ------------- | ------------- |
 | 13:00-13:15  | Welcome, intro to the event and to the keynote speaker  |
-| 13:15-14:00  | Keynote TBA  |
+| 13:15-14:00  | **Keynote Sarah de Rijcke** - *Centre for Science and Technology Studies (CWTS), Leiden University* will speak on equity and reform of rewards and recognition (title TBA)  |
 | 14:00-15:00  | Presentation ON-MERRIT & results  |
 | 15:00-15:15  | Break  |
 | 15:15-16:00  | Outcomes & recommendations & Q&A  |
-| 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough*  |
+| 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough* will discuss equity and inclusion in Open Science |
 | 16:45-17:00  | Closing and farewell  |
-
-## Who are our keynote speakers?

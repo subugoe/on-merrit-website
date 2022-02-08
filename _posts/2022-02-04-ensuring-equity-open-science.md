@@ -29,3 +29,8 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 | 15:15-16:00  | Outcomes & recommendations & Q&A  |
 | 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough* will discuss equity and inclusion in Open Science |
 | 16:45-17:00  | Closing and farewell  |
+
+
+## Our Keynote speakers
+
+Leslie Chan is Associate Professor in the Department of Global Development Studies and the director of the Knowledge Equity Lab at the University of Toronto Scarborough. An early practitioner of the Web for scholarly exchange and online learning, Leslie is interested in the role and design of knowledge infrastructure and their impact on local and international development. In particular, he has been studying the geopolitics of academic knowledge production and the uneven power relations embedded in this production. Leslie was the PI of the Open and Collaborative Science in Development Network (OCSDNet). He is on the advisory board of several international organizations, including the San Francisco Declaration on Research Assessment (DORA), Directory of Open Access Journals (DOAJ), and the steering committee of Invest in Open Infrastructure (IOI).

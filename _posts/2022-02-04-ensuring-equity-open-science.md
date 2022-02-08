@@ -23,7 +23,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 
 | Time  | Content |
 | ------------- | ------------- |
-| 13:00-13:15  | Welcomen and intro to the event  |
+| 13:00-13:15  | Welcome and intro to the event  |
 | 13:15-14:00  | **Keynote Sarah de Rijcke** - *Centre for Science and Technology Studies (CWTS), Leiden University* on equity and reform of rewards and recognition (Title to be confirmed)  |
 | 14:00-15:00  | Presentation of ON-MERRIT & [results](https://on-merrit.eu/results/)  |
 | 15:00-15:15  | Break  |
@@ -34,7 +34,9 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 
 ## Our Keynote speakers
 
-![Sarah de Rijcke](img/posts/Sarah de Rijcke.jpg)
+<div align="left">
+{% include image.html img="img/posts/Sarah de Rijcke.jpg" title="" %}
+</div>
 **Sarah de Rijcke** Professor in Science, Technology, and Innovation Studies & Scientific Director at the [Centre for Science and Technology Studies (CWTS)](http://cwts.nl) in Leiden. Chair of the [Science and Evaluation Studies (SES)](https://www.cwts.nl/research/research-groups/science-and-evaluation-studies) research group. Co-chair [Research on Research Institute (RoRI)](http://researchonresearch.org), founded by Wellcome Trust, University of Sheffield, Leiden University, and Digital Science.
 
 Sarah specialises in social studies of research evaluation, and has published widely on the topic of the relations between quality control mechanisms and knowledge production in different fields. She has also developed a strong international public academic presence with outreach activities in science policy, speaking frequently on the topic of research evaluation and metrics uses.

@@ -35,7 +35,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 ## Our Keynote speakers
 
 <div align="left">
-{% include image.html img="img/posts/Sarah de Rijcke.jpg" title="" %}
+{% include image.html img="img/posts/Sarah de Rijcke.jpg" width="150" %}
 </div>
 **Sarah de Rijcke** Professor in Science, Technology, and Innovation Studies & Scientific Director at the [Centre for Science and Technology Studies (CWTS)](http://cwts.nl) in Leiden. Chair of the [Science and Evaluation Studies (SES)](https://www.cwts.nl/research/research-groups/science-and-evaluation-studies) research group. Co-chair [Research on Research Institute (RoRI)](http://researchonresearch.org), founded by Wellcome Trust, University of Sheffield, Leiden University, and Digital Science.
 

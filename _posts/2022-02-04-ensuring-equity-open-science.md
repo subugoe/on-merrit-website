@@ -34,13 +34,13 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 
 ## Our Keynote speakers
 <div>
-  <div style="float:left">{% include image.html img="img/posts/Sarah de Rijcke.jpg" title="" %}</div>
+  <div style="float:left;margin:0px 15px 15px 0px;">{% include image.html img="img/posts/Sarah de Rijcke.jpg" title="" %}</div>
 
 **Sarah de Rijcke** Professor in Science, Technology, and Innovation Studies & Scientific Director at the [Centre for Science and Technology Studies (CWTS)](http://cwts.nl) in Leiden. Chair of the [Science and Evaluation Studies (SES)](https://www.cwts.nl/research/research-groups/science-and-evaluation-studies) research group. Co-chair [Research on Research Institute (RoRI)](http://researchonresearch.org), founded by Wellcome Trust, University of Sheffield, Leiden University, and Digital Science. Sarah specialises in social studies of research evaluation, and has published widely on the topic of the relations between quality control mechanisms and knowledge production in different fields. She has also developed a strong international public academic presence with outreach activities in science policy, speaking frequently on the topic of research evaluation and metrics uses. 
  </div> 
  
 <div>
-<div style="float:right">{% include image.html img="img/posts/Leslie Chan.jpg" title="" %}</div>
+<div style="float:right;margin: 0px 0px 15px 15px;">{% include image.html img="img/posts/Leslie Chan.jpg" title="" %}</div>
 
 **Leslie Chan** is Associate Professor in the Department of Global Development Studies and the director of the [Knowledge Equity Lab](https://knowledgeequitylab.ca/aboutus/) at the University of Toronto Scarborough. An early practitioner of the Web for scholarly exchange and online learning, Leslie is interested in the role and design of knowledge infrastructure and their impact on local and international development. In particular, he has been studying the geopolitics of academic knowledge production and the uneven power relations embedded in this production. Leslie was the PI of the [Open and Collaborative Science in Development Network (OCSDNet)](https://ocsdnet.org/). He is on the advisory board of several international organizations, including the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/), [Directory of Open Access Journals (DOAJ)](https://www.doaj.org/), and the steering committee of [Invest in Open Infrastructure (IOI)](https://investinopen.org/).
 </div>

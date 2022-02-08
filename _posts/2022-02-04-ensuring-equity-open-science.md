@@ -6,6 +6,7 @@ permalink: /news/2022-02-08-ensuring-equity-open-science/
 parent: news
 ref: welcome
 ---
+**[Register](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW) now for ON-MERRIT’s final event, to be held online on March 22, 2022**
 
 **Are you interested in how Open Science and Responsible Research and Innovation can contribute to a more equitable scientific environment?**
 

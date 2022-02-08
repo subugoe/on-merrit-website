@@ -12,10 +12,10 @@ ref: welcome
 
 Then join ON-MERRIT’s final event on ensuring equity in Open Science! 
 
-During this event **on March 22, 2022**, we will showcase ON-MERRIT’s research results and recommendations to institutions, researchers, funders and policymakers.
-Renowned keynote speakers will frame the conversation around rewards, incentives and recognition of Open Science practices in academia, and suggest ideas for the way forward.
+ON-MERRIT is an EC-funded project investigating issues of equity in the transition to Open Science and RRI. As we reach our closing stages, we are pleased to invite you to join our final project event. Here,  we will showcase ON-MERRIT’s research results and recommendations to institutions, researchers, funders and policymakers on mitigating key threats to equity in Open Science and RRI.
+Renowned speakers Sarah de Rijcke and Leslie Chan will also contribute their perspectives on these issues with insightful keynotes on reform of rewards and recognition and equity in Open Science respectively.
 
-Attendees will gain an understanding of the current status of the implementation of OS and RRI policies at all levels, learn about the challenges in fostering their adoption, and have the chance to discuss the practical recommendations proposed by the project. Researchers, funders, research institutions and policymakers from across Europe and beyond are invited to attend.
+Attendees will gain an understanding of the current status of the implementation of Open Science and RRI policies at all levels, learn about the challenges in fostering their adoption, and have the chance to discuss the practical recommendations proposed by the project. Everyone, including researchers, funders, research institutions and policymakers and beyond are invited to atten
 
 Check the schedule and sign up! Participation in the conference is free, upon registration; **[please register here](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW)**.
 

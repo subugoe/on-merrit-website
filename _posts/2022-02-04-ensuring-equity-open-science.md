@@ -6,7 +6,7 @@ permalink: /news/2022-02-08-ensuring-equity-open-science/
 parent: news
 ref: welcome
 ---
-**[Register](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW) now for ON-MERRIT’s final event, to be held online on March 22, 2022**
+**[Register](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW) now for ON-MERRIT’s final event, to be held online on March 22, 2022,  13.00-17.00 CET**
 
 **Are you interested in how Open Science and Responsible Research and Innovation can contribute to a more equitable scientific environment?**
 
@@ -15,13 +15,13 @@ Then join ON-MERRIT’s final event on ensuring equity in Open Science!
 ON-MERRIT is an EC-funded project investigating issues of equity in the transition to Open Science and RRI. As we reach our closing stages, we are pleased to invite you to join our final project event. Here,  we will showcase ON-MERRIT’s research results and recommendations to institutions, researchers, funders and policymakers on mitigating key threats to equity in Open Science and RRI.
 Renowned speakers Sarah de Rijcke and Leslie Chan will also contribute their perspectives on these issues with insightful keynotes on reform of rewards and recognition and equity in Open Science respectively.
 
-Attendees will gain an understanding of the current status of the implementation of Open Science and RRI policies at all levels, learn about the challenges in fostering their adoption, and have the chance to discuss the practical recommendations proposed by the project. Everyone, including researchers, funders, research institutions and policymakers and beyond are invited to atten
+Attendees will gain an understanding of the current status of the implementation of Open Science and RRI policies at all levels, learn about the challenges in fostering their adoption, and have the chance to discuss the practical recommendations proposed by the project. Everyone, including researchers, funders, research institutions and policymakers and beyond are invited to attend.
 
 Check the schedule and sign up! Participation in the conference is free, upon registration; **[please register here](https://uni-goettingen.zoom.us/meeting/register/tJMvceiprDMoHdIOujE7WXdH1ow0XJqtsQqW)**.
 
 ## Event's agenda:
 
-| Time  | Content |
+| Time (in CET)  | Content |
 | ------------- | ------------- |
 | 13:00-13:15  | Welcome and intro to the event  |
 | 13:15-14:00  | **Keynote Sarah de Rijcke** - *Centre for Science and Technology Studies (CWTS), Leiden University* on equity and reform of rewards and recognition (Title to be confirmed)  |

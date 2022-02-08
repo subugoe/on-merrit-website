@@ -27,7 +27,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 | 13:15-14:00  | **Keynote Sarah de Rijcke** - *Centre for Science and Technology Studies (CWTS), Leiden University* on equity and reform of rewards and recognition (Title to be confirmed)  |
 | 14:00-15:00  | Presentation of ON-MERRIT & [results](https://on-merrit.eu/results/)  |
 | 15:00-15:15  | Break  |
-| 15:15-16:00  | Outcomes & recommendations & Q&A  |
+| 15:15-16:00  | ON-MERRIT recommendations & Q&A  |
 | 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough* on Equity and Open Science (Title to be confirmed) |
 | 16:45-17:00  | Closing and farewell  |
 

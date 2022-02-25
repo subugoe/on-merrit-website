@@ -28,7 +28,7 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 | 14:00-15:00  | Presentation of ON-MERRIT & [results](https://on-merrit.eu/results/)  |
 | 15:00-15:15  | Break  |
 | 15:15-16:00  | ON-MERRIT recommendations  |
-| 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough* on Equity and Open Science (Title to be confirmed) |
+| 16:00-16:45  | **Keynote Leslie Chan** - *University of Toronto at Scarborough*: Why are the “rich” in open science getting richer? Reflections on structural inequities and knowledge production |
 | 16:45-17:00  | Closing and farewell  |
 
 
@@ -43,6 +43,10 @@ Check the schedule and sign up! Participation in the conference is free, upon re
 <div style="float:right;margin: 0px 0px 15px 15px;">{% include image.html img="img/posts/Leslie Chan.jpg" title="" %}</div>
 
 **Leslie Chan** is Associate Professor in the Department of Global Development Studies and the director of the [Knowledge Equity Lab](https://knowledgeequitylab.ca/aboutus/) at the University of Toronto Scarborough. An early practitioner of the Web for scholarly exchange and online learning, Leslie is interested in the role and design of knowledge infrastructure and their impact on local and international development. In particular, he has been studying the geopolitics of academic knowledge production and the uneven power relations embedded in this production. Leslie was the PI of the [Open and Collaborative Science in Development Network (OCSDNet)](https://ocsdnet.org/). He is on the advisory board of several international organizations, including the [San Francisco Declaration on Research Assessment (DORA)](https://sfdora.org/), [Directory of Open Access Journals (DOAJ)](https://www.doaj.org/), and the steering committee of [Invest in Open Infrastructure (IOI)](https://investinopen.org/).
+
+**About his keynote speech**
+Multiple forms of inequities exist in higher education and research institutions, traditionally regarded as the centers of knowledge production. Despite various reform efforts, generally under the guise of equity, diversity, and inclusion initiatives, stark inequities in knowledge production systems persist, both within and across institutions. The intersecting racial, epistemic, gender, class, and many other institutional biases are encoded into daily practices and in critical knowledge infrastructure and remain largely invisible. These norms and standards are seldom questioned and are often presented as neutral and universal. Open science or open scholarship practices, far from reducing the inequities in the participation and in the benefits of research, may run the risk of amplifying and consolidating the existing power hierarchy and dominance of the already powerful institutions and actors. This talk calls for inward reflection of how institutional racism and colonial legacy continue to structure and govern knowledge practices and ways of knowing and argue for justice-centered redesign of knowledge infrastructures that center historically marginalized communities and systems of knowledge.
+
 
 
 

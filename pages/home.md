@@ -14,9 +14,7 @@ Our multidisciplinary team uses qualitative and computational methods in order t
 ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate cumulative (dis)advantages, so called <b>Matthew effects</b>.<br />
 The project acronym stands for <b>O</b>bserving and <b>N</b>egating <b>M</b>atthew <b>E</b>ffects in <b>R</b>esponsible <b>R</b>esearch & <b>I</b>nnovation <b>T</b>ransition.
 </div>
-<div>
-  <img src="/img/bilder_team/gruppenfoto.jpeg">
-</div>
+<iframe width="560" height="315" src="https://youtu.be/eTPjwuwE_6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <!-- <div class="columns collapse"> -->
 <!-- <div class="cell collapse"> -->

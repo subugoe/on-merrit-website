@@ -27,7 +27,7 @@ policy-making](https://doi.org/10.5281/zenodo.3875054)
 * [D6.1 Investigating Institutional Structures of Reward & Recognition in Open Science & RRI](https://doi.org/10.5281/zenodo.5552196)
 * [D6.2 Scenario modelling of policy interventions regarding data sharing for RRI and Open Science transition](https://doi.org/10.5281/zenodo.5948916)
 * [D6.3 Synthesis report: ON-MERRIT findings, including disciplinary and gender case studies](https://doi.org/10.5281/zenodo.5948928)
-* D6.4 Final guidelines and policy recommendations
+* [D6.4 Final guidelines and policy recommendations. Global Thinking. ON-MERRIT recommendations for maximising equity in open and responsible research](https://doi.org/10.5281/zenodo.6276753)
 * D7.1 H - Requirement No. 1 1 - (Confidential)
 * D7.2 POPD - Requirement No. 2 1 - (Confidential)
 

@@ -15,20 +15,17 @@ In the following, you will find all links to presentations and videos. Enjoy, an
 ### Sarah de Rijcke
 [Presentation](https://doi.org/10.5281/zenodo.6397581)
 
-Video
-
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4NsTK6UhexE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
  
-<hr /> 
+
 ### Presentation of ON-MERRIT results
 Presentations
 * [Cumulative advantage, training and application of OS/RRI in policies, principles and practices within academia](https://doi.org/10.5281/zenodo.6397632)
 * [Results on "Innovation and Industry"](https://doi.org/10.5281/zenodo.6397703)
 * [Results on "Policy Making and Societal Actors"](https://doi.org/10.5281/zenodo.6397757)
 
-Video
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bjli_YMSitc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
@@ -38,7 +35,6 @@ Video
 
 [Recommendations](https://doi.org/10.5281/zenodo.6276752)
 
-Video
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BdRw_9NfyDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
@@ -46,7 +42,6 @@ Video
 ### Leslie Chan
 [Presentation](https://doi.org/10.5281/zenodo.6377047)
 
-Video
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MzKI-uFB-Xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>

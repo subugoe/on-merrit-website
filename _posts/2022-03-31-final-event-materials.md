@@ -13,7 +13,7 @@ In the following, you will find all links to presentations and videos. Enjoy, an
 
 
 ### Sarah de Rijcke
-[Presentation](https://doi.org/10.5281/zenodo.6397581)
+* [Presentation](https://doi.org/10.5281/zenodo.6397581)
 
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4NsTK6UhexE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,7 +41,7 @@ Presentations
 <hr />
 
 ### Leslie Chan
-[Presentation](https://doi.org/10.5281/zenodo.6377047)
+* [Presentation](https://doi.org/10.5281/zenodo.6377047)
 
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MzKI-uFB-Xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

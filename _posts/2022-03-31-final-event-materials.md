@@ -14,6 +14,7 @@ In the following, you will find all links to presentations and videos. Enjoy, an
 
 ### Sarah de Rijcke
 [Presentation](https://doi.org/10.5281/zenodo.6397581)
+
 Video
 
 <div class="responsive-embed">
@@ -24,20 +25,23 @@ Presentations
 * [Cumulative advantage, training and application of OS/RRI in policies, principles and practices within academia](https://doi.org/10.5281/zenodo.6397632)
 * [Results on "Innovation and Industry"](https://doi.org/10.5281/zenodo.6397703)
 * [Results on "Policy Making and Societal Actors"](https://doi.org/10.5281/zenodo.6397757)
+
 Video
 <div class="responsive-embed">
   </div>
   
 ### ON-MERRIT Recommendations
 [Presentation](https://doi.org/10.5281/zenodo.6407932)
-Video
+
 [Recommendations](https://doi.org/10.5281/zenodo.6276752)
 
+Video
 <div class="responsive-embed">
   </div>
 
 ### Leslie Chan
 [Presentation](https://doi.org/10.5281/zenodo.6377047)
+
 Video
 <div class="responsive-embed">
   </div>

@@ -29,9 +29,9 @@ Video
   </div>
   
 ### ON-MERRIT Recommendations
-Presentation
+[Presentation](https://doi.org/10.5281/zenodo.6407932)
 Video
-Recommendations
+[Recommendations](https://doi.org/10.5281/zenodo.6276752)
 
 <div class="responsive-embed">
   </div>

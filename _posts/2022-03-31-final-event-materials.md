@@ -20,7 +20,7 @@ In the following, you will find all links to presentations and videos. Enjoy, an
   </div>
  
 <hr />
-### Presentation of ON-MERRIT results
+### ON-MERRIT results
 Presentations
 * [Cumulative advantage, training and application of OS/RRI in policies, principles and practices within academia](https://doi.org/10.5281/zenodo.6397632)
 * [Results on "Innovation and Industry"](https://doi.org/10.5281/zenodo.6397703)

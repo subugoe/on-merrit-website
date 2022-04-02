@@ -19,7 +19,7 @@ In the following, you will find all links to presentations and videos. Enjoy, an
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4NsTK6UhexE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
  
-
+<hr />
 ### Presentation of ON-MERRIT results
 Presentations
 * [Cumulative advantage, training and application of OS/RRI in policies, principles and practices within academia](https://doi.org/10.5281/zenodo.6397632)
@@ -29,7 +29,8 @@ Presentations
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bjli_YMSitc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-  
+<hr />
+
 ### ON-MERRIT Recommendations
 [Presentation](https://doi.org/10.5281/zenodo.6407932)
 
@@ -38,6 +39,7 @@ Presentations
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BdRw_9NfyDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+<hr />
 
 ### Leslie Chan
 [Presentation](https://doi.org/10.5281/zenodo.6377047)

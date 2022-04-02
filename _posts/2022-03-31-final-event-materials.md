@@ -32,9 +32,8 @@ Presentations
 <hr />
 
 ### ON-MERRIT Recommendations
-[Presentation](https://doi.org/10.5281/zenodo.6407932)
-
-[Recommendations](https://doi.org/10.5281/zenodo.6276752)
+* [Presentation](https://doi.org/10.5281/zenodo.6407932)
+* [Recommendations](https://doi.org/10.5281/zenodo.6276752)
 
 <div class="responsive-embed">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BdRw_9NfyDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

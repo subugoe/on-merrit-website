@@ -12,12 +12,12 @@ symbol: "download"
 
 ## Publications
 
-* Bikash Gyawali, Nancy Pontika, and Petr Knoth. 2020. Open Access 2007 - 2017: Country and University Level Perspective. <i>Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020</i>. Association for Computing Machinery, New York, NY, USA, 381–384. https://doi.org/10.1145/3383583.3398606
-* Pontika, Nancy, Thomas Klebel, Antonia Correia, Hannah Metzler, Petr Knoth, and Tony Ross-Hellauer. 2022. “Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies Across Seven Countries.” MetaArXiv. March 3. doi:10.31222/osf.io/b9qaw.
-* Reichmann, Stefan, and Bernhard Wieser. 2022. “Open Science at the Science-policy Interface: Bringing in the Evidence?.” SocArXiv. February 5. doi:10.31235/osf.io/g5nuv.
-* Disch, Leonie, Angela Fessl, and Viktoria Pammer-Schindler. 2022. “Designing for Knowledge Construction to Facilitate the Uptake of Open Science: Laying out the Design Space.” In CHI Conference on Human Factors in Computing Systems, 1–16. New Orleans LA USA: ACM. https://doi.org/10.1145/3491102.3517450. Open Access version: https://zenodo.org/record/6592783.
-* Ross-Hellauer, Tony. 2022. “Open Science, Done Wrong, Will Compound Inequities.” Nature 603 (7901): 363–363. https://doi.org/10.1038/d41586-022-00724-0.
-* Ross-Hellauer, Tony, Stefan Reichmann, Nicki Lisa Cole, Angela Fessl, Thomas Klebel, and Nancy Pontika. 2022. “Dynamics of Cumulative Advantage and Threats to Equity in Open Science: A Scoping Review.” Royal Society Open Science 9 (1): 211032. https://doi.org/10.1098/rsos.211032.
+* Bikash Gyawali, Nancy Pontika, and Petr Knoth. 2020. Open Access 2007 - 2017: Country and University Level Perspective. <i>Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020</i>. Association for Computing Machinery, New York, NY, USA, 381–384. [https://doi.org/10.1145/3383583.3398606](https://doi.org/10.1145/3383583.3398606)
+* Pontika, Nancy, Thomas Klebel, Antonia Correia, Hannah Metzler, Petr Knoth, and Tony Ross-Hellauer. 2022. “Indicators of Research Quality, Quantity, Openness and Responsibility in Institutional Promotion, Review and Tenure Policies Across Seven Countries.” MetaArXiv. March 3. [https://doi.org/10.31222/osf.io/b9qaw](https://doi.org/10.31222/osf.io/b9qaw).
+* Reichmann, Stefan, and Bernhard Wieser. 2022. “Open Science at the Science-policy Interface: Bringing in the Evidence?.” SocArXiv. February 5. [https://doi.org/10.31235/osf.io/g5nuv](https://doi.org/10.31235/osf.io/g5nuv).
+* Disch, Leonie, Angela Fessl, and Viktoria Pammer-Schindler. 2022. “Designing for Knowledge Construction to Facilitate the Uptake of Open Science: Laying out the Design Space.” In CHI Conference on Human Factors in Computing Systems, 1–16. New Orleans LA USA: ACM. [https://doi.org/10.1145/3491102.3517450](https://doi.org/10.1145/3491102.3517450). Open Access version: [https://zenodo.org/record/6592783](https://zenodo.org/record/6592783).
+* Ross-Hellauer, Tony. 2022. “Open Science, Done Wrong, Will Compound Inequities.” Nature 603 (7901): 363–363. [https://doi.org/10.1038/d41586-022-00724-0](https://doi.org/10.1038/d41586-022-00724-0).
+* Ross-Hellauer, Tony, Stefan Reichmann, Nicki Lisa Cole, Angela Fessl, Thomas Klebel, and Nancy Pontika. 2022. “Dynamics of Cumulative Advantage and Threats to Equity in Open Science: A Scoping Review.” Royal Society Open Science 9 (1): 211032. [https://doi.org/10.1098/rsos.211032](https://doi.org/10.1098/rsos.211032).
 
 
 

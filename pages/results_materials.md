@@ -18,6 +18,11 @@ symbol: "download"
 * Disch, Leonie, Angela Fessl, and Viktoria Pammer-Schindler. 2022. “Designing for Knowledge Construction to Facilitate the Uptake of Open Science: Laying out the Design Space.” In CHI Conference on Human Factors in Computing Systems, 1–16. New Orleans LA USA: ACM. [https://doi.org/10.1145/3491102.3517450](https://doi.org/10.1145/3491102.3517450). Open Access version: [https://zenodo.org/record/6592783](https://zenodo.org/record/6592783).
 * Ross-Hellauer, Tony. 2022. “Open Science, Done Wrong, Will Compound Inequities.” Nature 603 (7901): 363–363. [https://doi.org/10.1038/d41586-022-00724-0](https://doi.org/10.1038/d41586-022-00724-0).
 * Ross-Hellauer, Tony, Stefan Reichmann, Nicki Lisa Cole, Angela Fessl, Thomas Klebel, and Nancy Pontika. 2022. “Dynamics of Cumulative Advantage and Threats to Equity in Open Science: A Scoping Review.” Royal Society Open Science 9 (1): 211032. [https://doi.org/10.1098/rsos.211032](https://doi.org/10.1098/rsos.211032).
+* Cole NL, Reichmann S, Ross-Hellauer T. 2023 Toward equitable open research: stakeholder co-created recommendations for research institutions, funders and researchers. R. Soc. Open Sci.10: 221460. [https://doi.org/10.1098/rsos.221460](https://doi.org/10.1098/rsos.221460)
+* Cole, N. L., Reichmann, S., & Ross-Hellauer, T. (2023, January 11). The potential of inclusive and collaborative Open Research processes at the science-policy interface. [https://doi.org/10.31235/osf.io/qzmf6](https://doi.org/10.31235/osf.io/qzmf6) (preprint)
+* Klebel, T., Ross-Hellauer, T. (2023). The APC-Barrier and its effect on stratification in open access publishing.
+Quantitative Science Studies. Advance Publication. [https://doi.org/10.1162/qss_a_00245](https://doi.org/10.1162/qss_a_00245)
+
 
 
 

@@ -21,7 +21,7 @@ E-mail: sekretariat(at)sub.uni-goettingen.de
 
 ## Representatives  
 
-Göttingen State and University Library is headed by Dr Wolfram Horstmann. The library is a central institution of the University of Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its President, Prof. Dr. Metin Tolan.
+Göttingen State and University Library is headed by deputy director Kathrin Brannemann. The library is a central institution of the University of Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its President, Prof. Dr. Metin Tolan.
 
 ## Competent supervisory authority  
 

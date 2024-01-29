@@ -20,7 +20,7 @@ The use of this website is generally possible without providing personal data. R
 ### Name and contact details of the person responsible
 
 The President  
-Prof. Dr. Reinhard Jahn  
+Prof. Dr. Metin Tolan  
 Wilhelmsplatz 1  
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
@@ -94,7 +94,7 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für
 ## Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 ### Name und Kontaktdaten des Verantwortlichen
 Der Präsident  
-Prof. Dr. Reinhard Jahn     
+Prof. Dr. Metin Tolan     
 Wilhelmsplatz 1   
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  

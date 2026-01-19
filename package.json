@@ -1,15 +1,14 @@
 {
   "name": "on-merrit",
   "version": "0.0.1",
-  "description": "Lorem ipsum dolor sit amut.",
+  "description": "ON-MERRIT Website",
   "contributors": [
     "Nils Windisch"
   ],
   "homepage": "https://on-merrit.eu",
-  "author": "Nils Windisch <windisch@sub.uni-goettingen.de>",
+  "author": "Nils Windisch <dbentgl@sub.uni-goettingen.de>",
   "devDependencies": {
     "autoprefixer": "^10.4",
-    "concurrently": "^9.2.0",
     "cssnano": "^7.1.2",
     "foundation-sites": "^6.6",
     "postcss": "^8.5.6",

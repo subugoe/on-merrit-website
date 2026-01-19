@@ -12,7 +12,6 @@
     "concurrently": "^9.2.0",
     "cssnano": "^7.1.2",
     "foundation-sites": "^6.6",
-    "ntl": "^5.0.0",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
     "pretty-exceptions": "^2.0.0",

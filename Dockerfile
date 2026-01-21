@@ -1,4 +1,4 @@
-FROM ruby:4 as build
+FROM ruby:4 AS build
 
 ENV JEKYLL_ENV: production
 WORKDIR /usr/src/app

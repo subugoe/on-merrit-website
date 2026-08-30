@@ -36,6 +36,11 @@ jobs:
       - name: Build site
         run: hugo --gc --minify
 
+      # the CNAME file in the output keeps the custom domain on-merrit.eu
+      # associated with the site; a missing one breaks the domain mapping
+      - name: Verify CNAME in build output
+        run: test -f public/CNAME
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

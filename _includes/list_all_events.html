@@ -1,0 +1,14 @@
+{% assign posts=site.posts %}
+{% for post in posts %}
+{% for category in post.categories %}
+{% if category == 'events' %}
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+
+{{ post.date | date: "%Y-%m-%d" }}
+
+{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<br>
+    [{{ site.data.lang.more }}]({{ site.baseurl }}{{ post.url }})
+
+{% endif %}
+{% endfor %}
+{% endfor %}

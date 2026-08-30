@@ -1,0 +1,12 @@
+<!-- layout/template used for posts/news -->
+{% include page_start.html %}
+{% include hero.html %}
+{% include nav.html %}
+<main class="grid-x grid-container">
+    <div class="cell medium-10 medium-offset-1 large-8 large-offset-2">
+        <h1 class="margin-top-3">{{ page.title }}</h1>
+        <p>{{ page.date | date: "%Y-%m-%d" }}</p>
+        {{ content }}
+    </div>
+</main>
+{% include page_end.html %}

@@ -1,0 +1,8 @@
+{% assign posts=site.posts %}
+<ul>
+{% for post in posts limit:10 %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> | {{ post.date | date: "%d.%m.%Y" }}
+    </li>
+{% endfor %}
+</ul>

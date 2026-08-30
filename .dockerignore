@@ -1,5 +1,4 @@
 node_modules/
-public/
-resources/
-.git/
+on-merrit-website/
 .idea
+.jekyll-cache/

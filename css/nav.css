@@ -1,0 +1,121 @@
+/* ==========================================================================
+   Site header & main menu
+   ==========================================================================
+   The desktop menu shows submenu items on hover or keyboard focus
+   (pure CSS, no JavaScript needed).
+   ========================================================================== */
+
+/* --- all nav links are black (overrides default link colour) ----------------- */
+
+nav a {
+  color: #000;
+}
+
+/* --- logo block (hero area) ------------------------------------------------ */
+
+.logo-block {
+  display: flex;
+  align-items: center;
+}
+
+.logo-block img {
+  max-width: 100%;
+}
+
+/* --- main menu wrapper ------------------------------------------------------ */
+
+.mainmenu__wrap {
+  border-bottom: 5px solid var(--color-purple);
+}
+
+@media (max-width: 767.98px) {
+  .mainmenu__wrap {
+    display: none;
+  }
+}
+
+.mainmenu {
+  margin-top: 1rem;
+}
+
+/* --- top level list ---------------------------------------------------------- */
+
+.mainmenu__mainlist {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mainmenu__mainlist > li {
+  position: relative;
+}
+
+.mainmenu__mainlist a {
+  display: block;
+  padding: 0.7rem 1rem;
+  line-height: 1;
+  color: #000;
+}
+
+.mainmenu__item-title__wrap {
+  white-space: nowrap;
+  text-align: center;
+}
+
+.mainmenu__item-symbol {
+  width: 25px;
+}
+
+.mainmenu__item-symbol__wrap {
+  margin-right: 0.5rem;
+}
+
+@media (min-width: 768px) and (max-width: 959.98px) {
+  .mainmenu__item-symbol__wrap {
+    display: block;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-right: 0;
+  }
+}
+
+/* active item and hover state: orange underline */
+.mainmenu__mainlist__item:hover,
+.mainmenu__mainlist__item--active {
+  border-bottom: 5px solid var(--color-blue);
+  margin-bottom: -5px;
+}
+
+/* --- submenus (dropdown, pure CSS) ------------------------------------------- */
+
+.mainmenu__sublist {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  min-width: 200px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  background: var(--color-background);
+  list-style: none;
+}
+
+.mainmenu__mainlist > li:hover > .mainmenu__sublist,
+.mainmenu__mainlist > li:focus-within > .mainmenu__sublist {
+  display: block;
+}
+
+.mainmenu__sublist a {
+  padding: 0.7rem 1rem;
+}
+
+.mainmenu__sublist .active > a {
+  background-color: #fff;
+  color: #000;
+}

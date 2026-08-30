@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Main content area
+   ========================================================================== */
+
+main {
+  margin-bottom: 2.5rem;
+}
+
+main a {
+  color: var(--color-purple);
+  font-weight: 600;
+}
+
+/* external-link marker appended to every link inside main */
+main a::after {
+  content: "+";
+  vertical-align: super;
+  font-size: 75%;
+}

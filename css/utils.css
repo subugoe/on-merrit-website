@@ -1,0 +1,113 @@
+/* ==========================================================================
+   Utilities: spacing, alignment, visibility helpers
+   ========================================================================== */
+
+/* --- spacing ---------------------------------------------------------------
+   margin-top-1 … margin-top-6 etc., steps of 0.5rem. */
+
+.margin-top-1 { margin-top: 0.5rem; }
+.margin-top-2 { margin-top: 1rem; }
+.margin-top-3 { margin-top: 1.5rem; }
+.margin-top-4 { margin-top: 2rem; }
+.margin-top-5 { margin-top: 2.5rem; }
+.margin-top-6 { margin-top: 3rem; }
+
+.margin-bottom-1 { margin-bottom: 0.5rem; }
+.margin-bottom-2 { margin-bottom: 1rem; }
+.margin-bottom-3 { margin-bottom: 1.5rem; }
+.margin-bottom-4 { margin-bottom: 2rem; }
+.margin-bottom-5 { margin-bottom: 2.5rem; }
+.margin-bottom-6 { margin-bottom: 3rem; }
+
+.margin-left-1 { margin-left: 0.5rem; }
+.margin-left-2 { margin-left: 1rem; }
+.margin-left-3 { margin-left: 1.5rem; }
+.margin-left-4 { margin-left: 2rem; }
+.margin-left-5 { margin-left: 2.5rem; }
+.margin-left-6 { margin-left: 3rem; }
+
+.margin-right-1 { margin-right: 0.5rem; }
+.margin-right-2 { margin-right: 1rem; }
+.margin-right-3 { margin-right: 1.5rem; }
+.margin-right-4 { margin-right: 2rem; }
+.margin-right-5 { margin-right: 2.5rem; }
+.margin-right-6 { margin-right: 3rem; }
+
+.padding-top-1 { padding-top: 0.5rem; }
+.padding-top-2 { padding-top: 1rem; }
+.padding-top-3 { padding-top: 1.5rem; }
+.padding-top-4 { padding-top: 2rem; }
+.padding-top-5 { padding-top: 2.5rem; }
+.padding-top-6 { padding-top: 3rem; }
+
+.padding-bottom-1 { padding-bottom: 0.5rem; }
+.padding-bottom-2 { padding-bottom: 1rem; }
+.padding-bottom-3 { padding-bottom: 1.5rem; }
+.padding-bottom-4 { padding-bottom: 2rem; }
+.padding-bottom-5 { padding-bottom: 2.5rem; }
+.padding-bottom-6 { padding-bottom: 3rem; }
+
+.padding-left-1 { padding-left: 0.5rem; }
+.padding-left-2 { padding-left: 1rem; }
+.padding-left-3 { padding-left: 1.5rem; }
+.padding-left-4 { padding-left: 2rem; }
+.padding-left-5 { padding-left: 2.5rem; }
+.padding-left-6 { padding-left: 3rem; }
+
+.padding-right-1 { padding-right: 0.5rem; }
+.padding-right-2 { padding-right: 1rem; }
+.padding-right-3 { padding-right: 1.5rem; }
+.padding-right-4 { padding-right: 2rem; }
+.padding-right-5 { padding-right: 2.5rem; }
+.padding-right-6 { padding-right: 3rem; }
+
+/* --- alignment ------------------------------------------------------------- */
+
+.text-left { text-align: left; }
+
+.text-right { text-align: right; }
+
+.text-center { text-align: center; }
+
+.text-justify { text-align: justify; }
+
+/* Center text on small screens only. */
+@media (max-width: 767.98px) {
+  .small-centered-text {
+    text-align: center;
+  }
+}
+
+/* --- visibility ------------------------------------------------------------ */
+
+/* Screen-reader only: visually hidden, still read by assistive tech. */
+.show-for-sr {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip-path: inset(50%) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Hidden below 768px, visible from 768px up. */
+@media (max-width: 767.98px) {
+  .hide-for-small-only {
+    display: none !important;
+  }
+}
+
+/* Visible below 768px, hidden from 768px up. */
+@media (min-width: 768px) {
+  .show-for-small-only {
+    display: none !important;
+  }
+}
+
+/* --- debug ----------------------------------------------------------------- */
+
+.debug {
+  border: 2px solid red;
+}

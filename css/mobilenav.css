@@ -1,0 +1,111 @@
+/* ==========================================================================
+   Mobile navigation (slide-in panel)
+   ==========================================================================
+   A fixed panel on the left edge that slides in when opened. The class
+   "is-open" is toggled by js/scripts.js via elements with a "data-toggle"
+   attribute (open) and "data-close" (close), plus the overlay.
+
+   Only visible on small screens: the toggle button carries the utility
+   class "show-for-small-only" in the markup.
+   ========================================================================== */
+
+.mobilenav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 12;
+  width: 250px;
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  transform: translateX(-250px);
+  transition: transform 0.5s ease;
+  background: #e6e6e6;
+  backface-visibility: hidden;
+}
+
+.mobilenav.is-open {
+  transform: translate(0);
+  box-shadow: 0 0 10px hsl(0deg 0% 4% / 70%);
+}
+
+/* click target behind the panel: closes it */
+.mobilenav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 11;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background: hsl(0deg 0% 99.6% / 25%);
+}
+
+.mobilenav-overlay.is-visible {
+  display: block;
+}
+
+/* lock page scroll while the panel is open (set on <body> by scripts.js) */
+body.is-mobilenav-open {
+  overflow: hidden;
+}
+
+/* --- close button ------------------------------------------------------------ */
+
+.mobilenav-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  z-index: 10;
+  font-size: 2em;
+  line-height: 1;
+  color: var(--color-muted);
+  cursor: pointer;
+}
+
+.mobilenav-close:focus,
+.mobilenav-close:hover {
+  color: var(--color-text);
+}
+
+/* --- menu lists ---------------------------------------------------------------- */
+
+.mobilenav__list,
+.mobilenav__sublist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mobilenav__sublist {
+  padding-left: 1.5rem;
+}
+
+.mobilenav a {
+  display: block;
+  padding: 0.7rem 1rem;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+.mobilenav .active > a {
+  background-color: #fff;
+  color: #000;
+}
+
+/* --- small-screen header row (menu/home links + search) ------------------------ */
+
+.menu--small {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.menu--small form {
+  padding-top: 16px;
+  width: 100%;
+}
+
+.search--small label {
+  width: 100%;
+}

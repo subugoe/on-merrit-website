@@ -7,7 +7,7 @@ position:
 order:
 alt: "Website of the on-merrit project"
 ---
-<div class="columns margin-top-4 grid-container margin-bottom-4 home-happy-talk">
+<div class="cell margin-top-4 grid-container margin-bottom-4 home-happy-talk">
 <div markdown="1">
 <b>ON-MERRIT</b> is a 30 month project funded by the European Commission to investigate how and if open and responsible research practices could worsen existing inequalities. <br />
 Our multidisciplinary team uses qualitative and computational methods in order to examine advantages and disadvantages in <b>Open Science</b>  and <b>Responsible Research & Innovation (RRI)</b>.
@@ -39,7 +39,7 @@ The project acronym stands for <b>O</b>bserving and <b>N</b>egating <b>M</b>atth
 
 <!-- About -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon">
     <img src="{{ site.baseurl }}/img/icons/info-alt.svg">
   </div>
   <div class="cell medium-10">
@@ -56,7 +56,7 @@ In this area you can find more information about the project activities and the 
 
 <!-- Events -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
     <img src="{{ site.baseurl }}/img/icons/calendar.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
@@ -77,7 +77,7 @@ In this area you can find more information about the project activities and the 
 
 <!-- Results & Materials -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon">
     <img src="{{ site.baseurl }}/img/icons/download.svg">
   </div>
   <div class="cell medium-10">
@@ -92,7 +92,7 @@ In this area you can find presentations, reports and dissemination material from
 
 <!-- Find us at -->
 <div class="featurebox cell grid-x home-last-block grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
     <img src="{{ site.baseurl }}/img/icons/email.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">

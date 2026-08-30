@@ -8,34 +8,14 @@
   "homepage": "https://on-merrit.eu",
   "author": "Nils Windisch <dbentgl@sub.uni-goettingen.de>",
   "devDependencies": {
-    "autoprefixer": "^10.4",
-    "cssnano": "^8.0",
-    "foundation-sites": "^6.6",
-    "jquery": "^4.0.0",
-    "postcss": "^8.5.6",
-    "postcss-cli": "^11.0.1",
-    "sass": "^1.97.2",
     "stylelint": "^17.0.0",
     "stylelint-config-standard": "^40.0.0",
     "stylelint-order": "^8.0.0"
   },
   "scripts": {
-    "sass": "sass $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
-    "prefix": "postcss --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.css | postcss --use cssnano > $(pwd)/css/style.min.css",
-    "sass_build": "sass $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
-    "sass_raw": "sass $(pwd)/_scss/style.scss > $(pwd)/css/style.css",
-    "prefix_raw": "postcss --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.min.css",
-    "prefix_build": "postcss --no-map --use autoprefixer -b 'last 2 versions' < $(pwd)/css/style.css | postcss --no-map --use cssnano > $(pwd)/css/style.min.css",
-    "build:css": "npm run sass && npm run prefix",
-    "watch:jekyll": "bundle exec jekyll b -w",
-    "build:jekyll": "bundle exec jekyll b --config _local.yml",
-    "jekyll_build": "bundle exec jekyll b",
+    "lint:css": "stylelint \"css/**/*.css\"",
     "serve": "bundle exec jekyll b -w",
-    "run:css": "npm run build:css && npm run build:jekyll",
-    "run:jekyll": "bundle exec jekyll b -w",
-    "dev": "npm run serve && npm run run:css &&npm run run:jekyll",
-    "go": "npm run dev > npm.log",
-    "prod": "npm run assets && npm run sass_build && npm run prefix_build && npm run jekyll_build",
-    "assets": "cp node_modules/foundation-sites/dist/js/foundation.min.js js/ && cp node_modules/jquery/dist/jquery.min.js js/"
+    "build:jekyll": "bundle exec jekyll b --config _local.yml",
+    "jekyll_build": "bundle exec jekyll b"
   }
 }

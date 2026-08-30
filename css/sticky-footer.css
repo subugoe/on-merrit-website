@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Page frame: sticky footer
+   ==========================================================================
+   <body> is a flex column. The wrapper around header/nav/main grows to
+   fill the viewport; the decorative band (.sticky-footer) sits below it.
+
+   Background images are tiled squares along the top and bottom edges.
+   ========================================================================== */
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding-top: 4rem;
+  background: url("../img/squares.svg) repeat-x top left;
+}
+
+.page-wrapper {
+  flex: 1 0 auto;
+}
+
+.sticky-footer {
+  height: 320px;
+  background: url("../img/squares_bottom.svg) repeat-x bottom left;
+}
+
+@media (min-width: 768px) and (max-width: 959.98px) {
+  .sticky-footer {
+    height: 416px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .sticky-footer {
+    height: 800px;
+  }
+}

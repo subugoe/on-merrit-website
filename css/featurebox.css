@@ -1,0 +1,82 @@
+/* ==========================================================================
+   Feature boxes (homepage) and homepage layout helpers
+   ========================================================================== */
+
+.featurebox__icon {
+  min-height: 3rem;
+  height: 3.33rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 5px solid var(--color-blue);
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.featurebox__icon img {
+  width: 25px;
+}
+
+.featurebox__header {
+  min-height: 3.33rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  border-bottom: 5px solid var(--color-purple);
+}
+
+.featurebox__content {
+  margin-top: 1rem;
+}
+
+.featurebox__content > img {
+  margin-right: 4px;
+}
+
+@media (max-width: 767.98px) {
+  .featurebox__header {
+    min-height: 0;
+  }
+
+  .featurebox__header img {
+    padding-right: 0.5rem;
+  }
+}
+
+/* --- homepage layout helpers -------------------------------------------------- */
+
+/* intro text + video side by side */
+.home-happy-talk {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  align-content: space-between;
+}
+
+.home-happy-talk div:first-of-type {
+  width: 50%;
+  padding-right: 1em;
+}
+
+.home-happy-talk div:last-of-type {
+  width: 50%;
+  padding-left: 1em;
+}
+
+/* remove the bottom margin of the last feature box row */
+.home-last-block {
+  margin: 0 !important;
+}
+
+@media (max-width: 768px) {
+  .home-happy-talk {
+    flex-flow: column;
+  }
+
+  .home-happy-talk div:first-of-type {
+    width: 100%;
+    padding-right: 0;
+  }
+
+  .home-happy-talk div:last-of-type {
+    width: 100%;
+    padding-left: 0;
+  }
+}

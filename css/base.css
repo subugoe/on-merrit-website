@@ -1,0 +1,378 @@
+/* ==========================================================================
+   Base: design tokens, reset, typography, tables
+   ==========================================================================
+   Breakpoints used across all stylesheets:
+     small  : 0 – 767.98px
+     medium : 768px – 959.98px
+     large  : 960px and up
+   ========================================================================== */
+
+:root {
+  /* metrics CI */
+  --color-orange: #f6a01a;
+  --color-purple: #0886c9;
+  --color-blue: #f6a01a;
+  --color-grey: #9a9b9b;
+  --color-twitter: #1da1f2;
+
+  --color-text: #0a0a0a;
+  --color-background: #fefefe;
+  --color-border: #cacaca;
+  --color-muted: #8a8a8a;
+  --color-stripe: #f1f1f1;
+
+  --font-body: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica", "Arial", sans-serif;
+
+  --lineheight-body: 1.75;
+  --lineheight-header: 1.25;
+  --header-margin-bottom: 0.33rem;
+}
+
+/* --------------------------------------------------------------------------
+   Reset
+   -------------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  font-family: var(--font-body);
+  font-weight: 400;
+  line-height: var(--lineheight-body);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  border-style: none;
+}
+
+a img {
+  border: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Typography
+   -------------------------------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+dd,
+blockquote,
+figure,
+pre,
+form {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-body);
+  font-style: normal;
+  font-weight: 400;
+  color: inherit;
+  text-rendering: optimizelegibility;
+  line-height: var(--lineheight-header);
+  margin-top: 0;
+  margin-bottom: var(--header-margin-bottom);
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 1.66rem;
+}
+
+h3 {
+  font-size: 1.33rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2.33rem;
+    line-height: var(--lineheight-header);
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.66rem;
+  }
+
+  h4 {
+    font-size: 1.33rem;
+  }
+}
+
+p {
+  margin-bottom: 1rem;
+  font-size: inherit;
+  line-height: 1.6;
+  text-rendering: optimizelegibility;
+}
+
+b,
+strong {
+  font-weight: 700;
+  line-height: inherit;
+}
+
+em,
+i {
+  font-style: italic;
+  line-height: inherit;
+}
+
+small {
+  font-size: 80%;
+  line-height: inherit;
+}
+
+a {
+  line-height: inherit;
+  color: var(--color-purple);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:focus,
+a:hover {
+  color: #0773ad;
+}
+
+ul,
+ol {
+  margin-bottom: 1rem;
+  margin-left: 1.25rem;
+  list-style-position: outside;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol ol,
+ol ul,
+ul ol,
+ul ul {
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  font-size: inherit;
+}
+
+dl {
+  margin-bottom: 1rem;
+}
+
+dl dt {
+  margin-bottom: 0.3rem;
+  font-weight: 700;
+}
+
+blockquote {
+  margin-bottom: 1rem;
+  padding: 0.5625rem 1.25rem 0 1.1875rem;
+  border-left: 1px solid var(--color-border);
+}
+
+blockquote,
+blockquote p {
+  line-height: 1.6;
+  color: var(--color-muted);
+}
+
+abbr,
+abbr[title] {
+  border-bottom: 1px dotted var(--color-text);
+  cursor: help;
+  text-decoration: none;
+}
+
+hr {
+  clear: both;
+  max-width: 75rem;
+  height: 0;
+  margin: 1.25rem auto;
+  border: 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+pre {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+code,
+kbd,
+samp {
+  font-family: monospace;
+  font-size: 1em;
+}
+
+code {
+  display: inline;
+  max-width: 100%;
+  padding: 0.125rem 0.3125rem 0.0625rem;
+  border: 1px solid var(--color-border);
+  background-color: #e6e6e6;
+  color: var(--color-text);
+}
+
+kbd {
+  margin: 0;
+  padding: 0.125rem 0.25rem 0;
+  background-color: #e6e6e6;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  color: var(--color-text);
+}
+
+figure {
+  margin: 0;
+}
+
+button {
+  padding: 0;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  line-height: 1;
+  cursor: auto;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Tables
+   -------------------------------------------------------------------------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0;
+}
+
+tbody,
+tfoot,
+thead {
+  border: 1px solid var(--color-stripe);
+  background-color: var(--color-background);
+}
+
+caption {
+  padding: 0.5rem 0.625rem 0.625rem;
+  font-weight: 700;
+}
+
+thead {
+  background: #f8f8f8;
+  color: var(--color-text);
+}
+
+tfoot {
+  background: var(--color-stripe);
+  color: var(--color-text);
+}
+
+thead tr,
+tfoot tr {
+  background: transparent;
+}
+
+thead td,
+thead th,
+tfoot td,
+tfoot th {
+  padding: 0.5rem 0.625rem 0.625rem;
+  font-weight: 700;
+  text-align: left;
+}
+
+tbody td,
+tbody th {
+  padding: 0.5rem 0.625rem 0.625rem;
+}
+
+tbody tr:nth-child(2n) {
+  border-bottom: 0;
+  background-color: var(--color-stripe);
+}
+
+/* Stack tables on small screens (opt-in via class "small-stack") */
+@media (max-width: 767.98px) {
+  table.small-stack thead,
+  table.small-stack tfoot {
+    display: none;
+  }
+
+  table.small-stack tr,
+  table.small-stack th,
+  table.small-stack td {
+    display: block;
+  }
+
+  table.small-stack td {
+    border-top: 0;
+  }
+}

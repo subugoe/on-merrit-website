@@ -106,7 +106,7 @@
         </div>
         <div class="cell grid-x grid-container footer__links">
             <nav class="footer__nav cell small-12 medium-6">
-                <ul class="menu simple">
+                <ul class="footer__menu">
                     {% assign pages=site.pages | where:"position", "bottom" %}
                     {% for item in pages %}
                     <li class="footer__nav-item {% if item.title == page.title %}active_footer{% endif %}">

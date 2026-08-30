@@ -51,10 +51,6 @@ The information provided on this site has been carefully compiled. However, the 
 Unless otherwise stated, all content on this website is licensed under a [Creative Commons 4.0 Attribution International (CC BY 4.0) Licence](https://creativecommons.org/licenses/by/4.0/).  
 Excepted from this are, in particular, the logos of the universities and other institutions who support \*metrics.  
 
-## CSS-Framework  
-
-Foundation - <http://foundation.zurb.com/get-involved/faq.html>    
-
 ## Icons  
 
 Themify Icons - <https://themify.me/themify-icons>  

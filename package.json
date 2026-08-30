@@ -13,9 +13,9 @@
     "stylelint-order": "^8.0.0"
   },
   "scripts": {
-    "lint:css": "stylelint \"css/**/*.css\"",
-    "serve": "bundle exec jekyll b -w",
-    "build:jekyll": "bundle exec jekyll b --config _local.yml",
-    "jekyll_build": "bundle exec jekyll b"
+    "lint:css": "stylelint \"static/css/**/*.css\"",
+    "hugo": "hvm status --printExecPathCached",
+    "serve": "$(hvm status --printExecPathCached) server -w",
+    "build": "$(hvm status --printExecPathCached) --gc --minify"
   }
 }

@@ -1,0 +1,99 @@
+{{ define "main" }}
+<main class="grid-x grid-container">
+<div class="cell margin-top-4 grid-container margin-bottom-4 home-happy-talk">
+<div>
+<b>ON-MERRIT</b> is a 30 month project funded by the European Commission to investigate how and if open and responsible research practices could worsen existing inequalities. <br>
+Our multidisciplinary team uses qualitative and computational methods in order to examine advantages and disadvantages in <b>Open Science</b> and <b>Responsible Research &amp; Innovation (RRI)</b>.
+ON-MERRIT aims at eventually suggesting a set of evidence-based recommendations for science policies, indicators and incentives, which could address and mitigate cumulative (dis)advantages, so called <b>Matthew effects</b>.<br>
+The project acronym stands for <b>O</b>bserving and <b>N</b>egating <b>M</b>atthew <b>E</b>ffects in <b>R</b>esponsible <b>R</b>esearch &amp; <b>I</b>nnovation <b>T</b>ransition.
+</div>
+<video width="560" controls preload="auto"><source src="{{ "img/open-science-who-is-left-behind.mp4" | relURL }}"/></video>
+</div>
+<div class="cell grid-x small-collapse medium-collapse">
+
+<!-- News -->
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ "img/icons/pulse.svg" | relURL }}" aria-hidden="true">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header">
+      <img src="{{ "img/icons/pulse.svg" | relURL }}" class="show-for-small-only" aria-hidden="true"><a href="{{ "news/" | relURL }}">{{ index hugo.Data.lang "news" }}</a>
+    </h2>
+    <div class="featurebox__content">
+      {{ partial "latest-news.html" . }}
+    </div>
+  </div>
+</div>
+
+<!-- About -->
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon">
+    <img src="{{ "img/icons/info-alt.svg" | relURL }}">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header">
+      <img src="{{ "img/icons/info-alt.svg" | relURL }}" class="show-for-small-only" aria-hidden="true"><a href="{{ "about/" | relURL }}">About</a>
+    </h2>
+<div class="featurebox__content">
+<!-- Start editing content here -->
+In this area you can find more information about the project activities and the team.
+<!-- Stop editing here -->
+</div>
+  </div>
+</div>
+
+<!-- Events -->
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ "img/icons/calendar.svg" | relURL }}" aria-hidden="true">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header">
+      <img src="{{ "img/icons/calendar.svg" | relURL }}" class="show-for-small-only" aria-hidden="true">
+      <a href="{{ "events/" | relURL }}">{{ index hugo.Data.lang "events" }}</a>
+    </h2>
+<div class="featurebox__content">
+<!-- Start editing content here -->
+  <ul>
+    <li>2021-06-11 | <a href="{{ "news/2021-06-11-OS-driver-to-change/" | relURL }}">ON-MERRIT webinar on Open Science as a driver to change</a></li>
+    <li>2021-06-10 | <a href="{{ "news/2021-06-10-bibliometrics-MEs-diversity/" | relURL }}">ON-MERRIT webinar on Bibliometrics, the Matthew effect and diversity in academia</a></li>
+    <li>2021-05-18 | <a href="{{ "news/2021-05-18-matthew-effects-in-science/" | relURL }}">ON-MERRIT webinar on Matthew Effects in Science</a></li>
+    <li>2021-04-21 | <a href="{{ "news/2021-04-20-on-merrit-webinars/" | relURL }}">ON-MERRIT webinar series</a></li>
+  </ul>
+<!-- Stop editing here -->
+</div>
+  </div>
+</div>
+
+<!-- Results & Materials -->
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon">
+    <img src="{{ "img/icons/download.svg" | relURL }}">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ "img/icons/download.svg" | relURL }}" class="show-for-small-only" aria-hidden="true"><a href="{{ "results/" | relURL }}">Results &amp; Materials</a></h2>
+<div class="featurebox__content">
+<!-- Start editing content here -->
+In this area you can find presentations, reports and dissemination material from the project.
+<!-- Stop editing content here -->
+</div>
+  </div>
+</div>
+
+<!-- Find us at -->
+<div class="featurebox cell grid-x home-last-block grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ "img/icons/email.svg" | relURL }}" aria-hidden="true">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ "img/icons/email.svg" | relURL }}" class="show-for-small-only" aria-hidden="true">{{ index hugo.Data.lang "findus" }}</h2>
+    <div class="featurebox__content">
+      <img src="{{ "img/icons/twitter-alt.svg" | relURL }}" class="twitter-icon" aria-hidden="true"> <a href="https://twitter.com/OnMerrit">ON-MERRIT on Twitter</a> <br>
+    </div>
+  </div>
+</div>
+
+</div>
+</main>
+{{ end }}

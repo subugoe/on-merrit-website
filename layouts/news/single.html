@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="grid-x grid-container">
+    <div class="cell medium-10 medium-offset-1 large-8 large-offset-2">
+        <h1 class="margin-top-3">{{ .Title }}</h1>
+        <p>{{ .Date.Format "2006-01-02" }}</p>
+        {{ .Content }}
+    </div>
+</main>
+{{ end }}

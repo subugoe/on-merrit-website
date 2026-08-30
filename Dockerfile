@@ -1,13 +1,12 @@
-FROM ruby:4 AS build
+# build stage: keep the Hugo version in sync with the version pinned in .hvm
+FROM hugomods/hugo:exts-0.165.0 AS build
 
-ENV JEKYLL_ENV: production
-WORKDIR /usr/src/app
+WORKDIR /src
 
-COPY . /usr/src/app
+COPY . /src
 
-RUN bundle install && \
-    bundle exec jekyll build -d public -c _local.yml
+RUN hugo --gc --minify -d public
 
 FROM nginx:1-alpine
 
-COPY --from=build /usr/src/app/public/ /usr/share/nginx/html/
+COPY --from=build /src/public/ /usr/share/nginx/html/

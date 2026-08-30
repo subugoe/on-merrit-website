@@ -1,0 +1,12 @@
+baseURL = "https://on-merrit.eu/"
+title = "on-merrit"
+locale = "en"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term", "RSS"]
+disableHugoGeneratorInject = true
+
+# content contains raw HTML (project markup, embedded videos, ...)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

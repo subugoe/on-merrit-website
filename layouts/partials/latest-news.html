@@ -1,0 +1,7 @@
+<ul>
+{{ range first 10 site.RegularPages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> | {{ .Date.Format "02.01.2006" }}
+    </li>
+{{ end }}
+</ul>

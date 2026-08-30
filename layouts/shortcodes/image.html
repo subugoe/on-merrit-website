@@ -1,0 +1,9 @@
+<div class="image-wrapper">
+  {{ $src := replace (.Get "img") " " "%20" | relURL }}
+  {{ with .Get "url" }}<a href="{{ . }}" title="{{ $.Get "title" }}" target="_blank">{{ end }}
+      <img src="{{ $src }}" alt="{{ .Get "title" }}"/>
+  {{ with .Get "url" }}</a>{{ end }}
+  {{ with .Get "caption" }}
+      <p class="image-caption">{{ . | safeHTML }}</p>
+  {{ end }}
+</div>
